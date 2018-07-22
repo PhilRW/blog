@@ -14,4 +14,4 @@ title: Picture of Sadness
 wordpress_id: 2694
 ---
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/11/IMG_0308-225x300.jpg)](http://philrw.files.wordpress.com/2010/11/img_0308.jpg)
+[![](/images/IMG_0308-225x300.jpg)](/images/img_0308.jpg)

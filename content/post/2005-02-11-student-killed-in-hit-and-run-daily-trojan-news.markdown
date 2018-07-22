@@ -16,9 +16,9 @@ Please, people, please be careful when crossing the street. It’s not your faul
 
 http://www.dailytrojan.com/news/2005/02/11/News/Student.Killed.In.HitAndRun-861179.shtml (link no longer works)
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2005/02/02-10-05_1723-300x225.jpg)](http://philrw.files.wordpress.com/2005/02/02-10-05_1723.jpg)
+[![](/images/02-10-05_1723-300x225.jpg)](/images/02-10-05_1723.jpg)
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2005/02/02-10-05_1724-300x225.jpg)](http://philrw.files.wordpress.com/2005/02/02-10-05_1724.jpg)
+[![](/images/02-10-05_1724-300x225.jpg)](/images/02-10-05_1724.jpg)
 Above: Just slightly below and left of center is the sheet covering the
 victim’s body. This was about 25-50 yards from the front door to my
 apartment. The crosswalk where he was allegedly hit was much further

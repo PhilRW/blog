@@ -22,4 +22,4 @@ A review of clever wit and humorous disposition -- my comments on which may be m
 
 [‘Gulliver’s Travels’ - a Swiftian Film Review - NYTimes.com](http://movies.nytimes.com/2010/12/24/movies/24gulliver.html).
 
-It reminds me a bit of my own [Modest Proposal](http://philrw.files.wordpress.com/2010/12/19980208-a-modest-proposal.pdf) from 12th grade AP English class.
+It reminds me a bit of my own [Modest Proposal](/images/19980208-a-modest-proposal.pdf) from 12th grade AP English class.

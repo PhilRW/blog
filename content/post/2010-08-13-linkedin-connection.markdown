@@ -17,4 +17,4 @@ wordpress_id: 2416
 
 Click on the the image to view it full-size.
 
-[![Learn about Jesus, your new connection...](https://blog.rosenberg-watt.com/wp-content/uploads/2010/08/LinkedIn-connection-300x7.jpg)](http://philrw.files.wordpress.com/2010/08/linkedin-connection.jpg)
+[![Learn about Jesus, your new connection...](/images/LinkedIn-connection-300x7.jpg)](/images/linkedin-connection.jpg)

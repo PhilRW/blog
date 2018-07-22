@@ -14,33 +14,27 @@ title: Decisions Made Easy
 wordpress_id: 87167
 ---
 
+![/images/screen-shot-2017-11-17-at-11-58-00.png](/images/screen-shot-2017-11-17-at-11-58-00.png)
+
 Data makes decisions easier. Let's look at an example:
 
 
-
-	
   1. We recently got solar panels on our house. We're producing power and all is good.
 
-	
   2. The electric company ([Xcel](https://en.wikipedia.org/wiki/Xcel_Energy)) recently made an optional billing rate available called Time-of-Use metering (TOU). Our current flat-rate (tier 1, <500KWh/month) billing is roughly 9¢/[KWh](https://en.wikipedia.org/wiki/Kilowatt_hour). TOU rates charge you differently depending on what time of day it is, since "peak" power costs them more to deliver. Here are the approximate _wintertime_ TOU rates:
 
-	
+
     1. 8¢/KWh Off-Peak 21:00-09:00
 
-	
+
     2. 10¢/KWh Shoulder 09:00-21:00
 
-	
-    3. 14¢/KWh On-Peak 14:00-18:00 weekdays (non-holidays)
 
+    3. 14¢/KWh On-Peak 14:00-18:00 weekdays (non-holidays)	
 
+      4. Xcel will credit us into a virtual "solar bank" for electricity at the rate and time we generate it under TOU metering, or a simple KWh solar bank under flat-rate metering.
 
-
-	
-  3. Xcel will credit us into a virtual "solar bank" for electricity at the rate and time we generate it under TOU metering, or a simple KWh solar bank under flat-rate metering.
-
-	
-  4. Which plan would be worth more to us?
+  3. Which plan would be worth more to us?
 
 
 A lot of factors go into this calculation. With flat-rate it's easy, just look at the net meter at the end of the month and see whether it's positive or negative to find out whether you owe money or built up your "solar bank." With TOU it's not so easy. You have to calculate your net usage depending on summer/winter, time of day, and the cost for that time of day.
@@ -49,19 +43,19 @@ Fortunately I wrote a program to figure that out. Combined with a [home energy m
 
 We only have data for a few days so far but the results are telling:
 
-    
-    <span class="s1">2017-11-12 Sun: TOU $-0.48 vs flat-rate $-0.25</span>
-    <span class="s1">2017-11-13 Mon: TOU $-0.71 vs flat-rate $-0.31</span>
-    <span class="s1">2017-11-14 Tue: TOU $-0.31 vs flat-rate $ 0.00</span>
-    <span class="s1">2017-11-15 Wed: TOU $-0.37 vs flat-rate $ 0.11</span>
-    <span class="s1">2017-11-16 Thu: TOU $-0.19 vs flat-rate $ 0.12</span>
-    <span class="s1">==================</span>
-    <span class="s1">On-peak:<span class="Apple-converted-space">  </span>$<span class="Apple-converted-space">  </span>-1.51</span>
-    <span class="s1">Shoulder: $<span class="Apple-converted-space">  </span>-5.19</span>
-    <span class="s1">Off-peak: $ <span class="Apple-converted-space">  </span>4.65</span>
-    <span class="s1">==================</span>
-    <span class="s1">TOU Sum:<span class="Apple-converted-space">  </span>$<span class="Apple-converted-space">  </span>-2.05</span>
-    <span class="s1">Flat Sum: $<span class="Apple-converted-space">  </span>-0.33</span>
+
+    2017-11-12 Sun: TOU $-0.48 vs flat-rate $-0.25
+    2017-11-13 Mon: TOU $-0.71 vs flat-rate $-0.31
+    2017-11-14 Tue: TOU $-0.31 vs flat-rate $ 0.00
+    2017-11-15 Wed: TOU $-0.37 vs flat-rate $ 0.11
+    2017-11-16 Thu: TOU $-0.19 vs flat-rate $ 0.12
+    ==================
+    On-peak:  $  -1.51
+    Shoulder: $  -5.19
+    Off-peak: $   4.65
+    ==================
+    TOU Sum:  $  -2.05
+    Flat Sum: $  -0.33
 
 
 Switching to TOU net metering shows a >6x increase in profitability (given immediate monetization) over the past 5 days.

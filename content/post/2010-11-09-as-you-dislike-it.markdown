@@ -19,7 +19,7 @@ wordpress_id: 2743
 
 You'll need Safari or another HTML5 capable browser to hear the music:
 
-[embed]https://blog.rosenberg-watt.com/wp-content/uploads/2010/11/03-Blow-Blow-Thou-Winter-Wind.m4a[/embed]
+[embed]/images/03-Blow-Blow-Thou-Winter-Wind.m4a[/embed]
 
 
 <blockquote>Blow, blow, thou winter wind.

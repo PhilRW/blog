@@ -15,4 +15,4 @@ title: 'Lost Dog: "Lucky"'
 wordpress_id: 783
 ---
 
-[![](http://blog.rosenberg-watt.com/wp-content/uploads/2010/07/lucky-189x300.jpg)](http://blog.rosenberg-watt.com/wp-content/uploads/2010/07/lucky.jpg)
+[![](/images/lucky-189x300.jpg)](/images/lucky.jpg)

@@ -14,7 +14,7 @@ wordpress_id: 307
 
 I call this one “Center of Gravity.” MC Escher would be proud.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/05/Center_of_Gravity-300x225.jpg)](http://philrw.files.wordpress.com/2006/05/center_of_gravity.jpg)
+[![](/images/Center_of_Gravity-300x225.jpg)](/images/center_of_gravity.jpg)
 
 <!--more-->
 

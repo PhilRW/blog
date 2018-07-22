@@ -31,4 +31,4 @@ So the bottom line is this, dear reader: if you don't have a method for tracking
 <blockquote>Once you have their money, you never give it back.</blockquote>
 
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2011/10/6a0120a85dcdae970b0120a86e1125970b-246x300.jpg)](http://www.amazon.com/dp/0671529366/?tag=codihorr-20)
+[![](/images/6a0120a85dcdae970b0120a86e1125970b-246x300.jpg)](http://www.amazon.com/dp/0671529366/?tag=codihorr-20)

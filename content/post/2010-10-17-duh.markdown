@@ -17,4 +17,4 @@ wordpress_id: 2623
 
 K took this photo in a small town in Minnesota. Her corresponding comment was "Duh." I agree.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/10/IMG_0296-300x225.jpg)](http://philrw.files.wordpress.com/2010/10/img_0296.jpg)
+[![](/images/IMG_0296-300x225.jpg)](/images/img_0296.jpg)

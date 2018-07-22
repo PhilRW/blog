@@ -14,6 +14,6 @@ wordpress_id: 2819
 
 I listened to this on the drive to work today. Good story. You can read the text but I recommend listening to the recording so you can hear Swilley's words.
 
-[embed]https://blog.rosenberg-watt.com/wp-content/uploads/2010/11/20101114_atc_03.mp3[/embed]
+[embed]/images/20101114_atc_03.mp3[/embed]
 
 [Out Of The Closet ... In The Pulpit Of A Megachurch : NPR](http://www.npr.org/2010/11/14/131312723/out-of-the-closet-in-the-pulpit-of-a-megachurch).

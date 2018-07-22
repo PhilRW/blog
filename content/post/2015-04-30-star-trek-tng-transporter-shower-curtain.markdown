@@ -12,7 +12,7 @@ title: Star Trek TNG Transporter Shower Curtain
 wordpress_id: 85698
 ---
 
-<blockquote>[![](http://philrw.files.wordpress.com/2015/04/curtain.jpg)](http://www.startrek.com/article/tng-transporter-shower-curtain)</blockquote>
+<blockquote>[![](/images/curtain.jpg)](http://www.startrek.com/article/tng-transporter-shower-curtain)</blockquote>
 
 
 

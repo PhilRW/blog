@@ -14,4 +14,4 @@ title: Sam Adams’ Kids Night
 wordpress_id: 118
 ---
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2008/03/Photo_030708_001-300x225.jpg)](http://philrw.files.wordpress.com/2008/03/photo_030708_001.jpg)
+[![](/images/Photo_030708_001-300x225.jpg)](/images/photo_030708_001.jpg)

@@ -16,4 +16,4 @@ title: Reservation Confirmed
 wordpress_id: 85994
 ---
 
-This is an occasion when having reservations is a good thing. [![Tesla Model 3 reservation confirmation email screenshot](https://blog.rosenberg-watt.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-01-at-17.47.44-1024x714.png)](http://philrw.files.wordpress.com/2016/04/screen-shot-2016-04-01-at-17-47-44.png)
+This is an occasion when having reservations is a good thing. [![Tesla Model 3 reservation confirmation email screenshot](/images/Screen-Shot-2016-04-01-at-17.47.44-1024x714.png)](/images/screen-shot-2016-04-01-at-17-47-44.png)

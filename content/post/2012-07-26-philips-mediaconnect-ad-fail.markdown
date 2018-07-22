@@ -19,7 +19,7 @@ title: Philips MediaConnect Ad Fail
 wordpress_id: 48676
 ---
 
-![](https://blog.rosenberg-watt.com/wp-content/uploads/2012/07/IMG_1320-764x1024.jpg)
+![](/images/IMG_1320-764x1024.jpg)
 
 For your consideration:
 

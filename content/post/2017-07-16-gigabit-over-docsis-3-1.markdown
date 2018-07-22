@@ -14,4 +14,4 @@ title: Gigabit over DOCSIS 3.1
 wordpress_id: 86718
 ---
 
-So for the second time, Comcast said they wouldn't run fiber to my house. But I did get a DOCSIS 3.1 modem. Here are the preliminary results:![Speed Results: 850.88/35.23 Mbps; Latency 9 ms](https://philrw.files.wordpress.com/2017/07/screen-shot-2017-07-16-at-2-19-34-pm.png)
+So for the second time, Comcast said they wouldn't run fiber to my house. But I did get a DOCSIS 3.1 modem. Here are the preliminary results:![Speed Results: 850.88/35.23 Mbps; Latency 9 ms](/images/screen-shot-2017-07-16-at-2-19-34-pm.png)

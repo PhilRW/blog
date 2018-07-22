@@ -14,7 +14,7 @@ wordpress_id: 3199
 
 In my house search, I have encountered a condo for sale very close to my work. To illustrate just exactly how close it is to my work, I'm including this image from Google Maps directions:
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2011/03/Condo-driving-directions-to-work-300x168.jpg)](http://philrw.files.wordpress.com/2011/03/condo-driving-directions-to-work.jpg)
+[![](/images/Condo-driving-directions-to-work-300x168.jpg)](/images/condo-driving-directions-to-work.jpg)
 
 Pros:
 

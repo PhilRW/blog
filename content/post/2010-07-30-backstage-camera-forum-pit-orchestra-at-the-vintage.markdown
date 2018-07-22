@@ -19,7 +19,7 @@ wordpress_id: 2342
 
 This is a live an image of the pit orchestra at the Vintage Theater's production of _A Funny Thing Happened on the Way to the Forum_. I'm the musical director and I play the keyboard closest to the camera. We run weekends until August 8 and we still have some tickets left. [Buy your tickets now](http://www.vintagetheatre.com/) before we're completely sold out.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/07/vtp-300x225.jpg)](http://philrw.files.wordpress.com/2010/07/vtp.jpg)
+[![](/images/vtp-300x225.jpg)](/images/vtp.jpg)
 
 Refresh this page for the latest image. Updated every 60 seconds.
 This post will be un-stickied after we close on August 8.

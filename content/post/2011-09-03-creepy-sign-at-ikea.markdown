@@ -12,4 +12,4 @@ title: Creepy Sign at Ikea
 wordpress_id: 3552
 ---
 
-[![20110903-114339.jpg](http://philrw.files.wordpress.com/2011/09/20110903-114339.jpg)](http://philrw.files.wordpress.com/2011/09/20110903-114339.jpg)
+[![20110903-114339.jpg](/images/20110903-114339.jpg)](/images/20110903-114339.jpg)

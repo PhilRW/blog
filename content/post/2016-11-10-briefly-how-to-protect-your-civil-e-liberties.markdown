@@ -24,6 +24,6 @@ However, this means that you _and all the people you communicate with _need to u
 
 As for email, really your only choice is to use PGP encryption. Yes, it's complicated and technical and most of you are not inclined to learn how to use it. So let's make this simple: **do not send any private information via email** (unless you have a guru)_._ There: problem solved.
 
-![Screen Shot 2016-11-10 at 11.40.48.png](https://philrw.files.wordpress.com/2016/11/screen-shot-2016-11-10-at-11-40-48.png)<- Remember, this lock icon in your web browser only secures the data between your computer and the web server. Email is totally unencrypted once it leaves your server and heads over to your recipient's server. Think of sending an email like sending a postcard to someone: anyone and everyone can read it in-transit.
+![Screen Shot 2016-11-10 at 11.40.48.png](/images/screen-shot-2016-11-10-at-11-40-48.png)<- Remember, this lock icon in your web browser only secures the data between your computer and the web server. Email is totally unencrypted once it leaves your server and heads over to your recipient's server. Think of sending an email like sending a postcard to someone: anyone and everyone can read it in-transit.
 
 The important thing here is to be conscious of how your communications systems work, and this takes a certain level of understanding. Technical subjects are not always the easiest to understand, but refusing to learn is tantamount to blind trust in the large companies, governments, and other unknown interests that may ever get a whiff of your private data.

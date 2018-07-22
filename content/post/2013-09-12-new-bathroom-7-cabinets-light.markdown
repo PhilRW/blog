@@ -17,4 +17,4 @@ title: 'New Bathroom 7: Cabinets & Light'
 wordpress_id: 84878
 ---
 
-[![2013-09-12 05.33.31](https://blog.rosenberg-watt.com/wp-content/uploads/2013/09/2013-09-12-05.33.311-300x225.jpg)](http://philrw.files.wordpress.com/2013/09/2013-09-12-05-33-311.jpg)
+[![2013-09-12 05.33.31](/images/2013-09-12-05.33.311-300x225.jpg)](/images/2013-09-12-05-33-311.jpg)

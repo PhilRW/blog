@@ -15,4 +15,4 @@ title: No Content Found
 wordpress_id: 3596
 ---
 
-[![20110930-130954.jpg](http://philrw.files.wordpress.com/2011/09/20110930-130954.jpg)](http://philrw.files.wordpress.com/2011/09/20110930-130954.jpg)
+[![20110930-130954.jpg](/images/20110930-130954.jpg)](/images/20110930-130954.jpg)

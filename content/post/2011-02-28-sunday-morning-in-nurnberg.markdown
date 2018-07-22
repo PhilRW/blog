@@ -20,6 +20,6 @@ Bottle of booze in a plain brown wrapper: $12.
 
 Catching a nun on coming out of a liquor store on a Sunday morning: Priceless.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2011/02/Boozing-Nuns-on-a-Sunday-am-300x168.jpg)](http://philrw.files.wordpress.com/2011/02/boozing-nuns-on-a-sunday-am.jpg)
+[![](/images/Boozing-Nuns-on-a-Sunday-am-300x168.jpg)](/images/boozing-nuns-on-a-sunday-am.jpg)
 
 There are some things that money can't buy. For everything else, there's _Sound of Music_.

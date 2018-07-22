@@ -15,6 +15,6 @@ wordpress_id: 59774
 
 Today I learned that Indianapolis is a giant square.
 
-![](http://philrw.files.wordpress.com/2012/12/indianapolis.jpg)
+![](/images/indianapolis.jpg)
 
 via [Indianapolis, IN - Google Maps](https://maps.google.com/maps?q=Indianapolis,%20IN).

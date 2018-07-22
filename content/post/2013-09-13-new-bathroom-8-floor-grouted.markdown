@@ -19,4 +19,4 @@ wordpress_id: 84882
 
 The floor is now grouted.
 
-[![2013-09-12 20.07.22](https://blog.rosenberg-watt.com/wp-content/uploads/2013/09/2013-09-12-20.07.22-300x225.jpg)](http://philrw.files.wordpress.com/2013/09/2013-09-12-20-07-22.jpg)
+[![2013-09-12 20.07.22](/images/2013-09-12-20.07.22-300x225.jpg)](/images/2013-09-12-20-07-22.jpg)

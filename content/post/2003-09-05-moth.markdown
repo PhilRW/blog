@@ -14,4 +14,4 @@ wordpress_id: 450
 
 I noticed this moth today after coming back from class—right above the door to my apartment. It’s about two inches in length.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2003/09/102_0218-300x224.jpg)](http://philrw.files.wordpress.com/2003/09/102_0218.jpg)
+[![](/images/102_0218-300x224.jpg)](/images/102_0218.jpg)

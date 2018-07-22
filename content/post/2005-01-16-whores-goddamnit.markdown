@@ -17,4 +17,4 @@ My thoughts on the show—well, I enjoyed it. It looked like fun. I could go int
 
 The following photo blatantly stolen from a cast member’s Friendster profile:
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2005/01/7023764958563l-300x225.jpg)](http://philrw.files.wordpress.com/2005/01/7023764958563l.jpg)
+[![](/images/7023764958563l-300x225.jpg)](/images/7023764958563l.jpg)

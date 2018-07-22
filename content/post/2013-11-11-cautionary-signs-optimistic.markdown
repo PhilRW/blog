@@ -19,4 +19,4 @@ wordpress_id: 84911
 
 I had to enhance this photo because of the poor quality.
 
-[caption id="attachment_84912" align="alignnone" width="300"]![](https://blog.rosenberg-watt.com/wp-content/uploads/2013/11/IMG_20131111_072928-300x224.jpg) BRIGHT SUNSHINE AHEAD PLEASE USE CAUTION[/caption]
+[caption id="attachment_84912" align="alignnone" width="300"]![](/images/IMG_20131111_072928-300x224.jpg) BRIGHT SUNSHINE AHEAD PLEASE USE CAUTION[/caption]

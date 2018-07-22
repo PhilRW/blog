@@ -28,4 +28,4 @@ If you see this man, please report him promptly to the appropriate authorities.
 Attached is semi-recent photo obtained in recent search of suspect’s property.
 
 —- END BULLETIN—-
-[![](http://philrw.files.wordpress.com/2007/02/vhxp60ti5uznvle6nek0aglaq6ei.jpg)](http://philrw.files.wordpress.com/2007/02/vhxp60ti5uznvle6nek0aglaq6ei.jpg)</blockquote>
+[![](/images/vhxp60ti5uznvle6nek0aglaq6ei.jpg)](/images/vhxp60ti5uznvle6nek0aglaq6ei.jpg)</blockquote>

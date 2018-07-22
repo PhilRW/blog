@@ -46,6 +46,6 @@ Jesus Fucking Christ!!
 
 A coworker and I have a running joke about how awesome the world would be if everybody just did their jobs. Not even 100% of their jobs, just _most_ of their jobs _most _of the time. This piece of garbage doesn't deserve to be called news. Certainly not facts.
 
-[![](https://philrw.files.wordpress.com/2017/07/ap17184308292744.jpg)](http://www.denverpost.com/2017/07/03/tesla-model-3-on-sale-friday/)
+[![](/images/ap17184308292744.jpg)](http://www.denverpost.com/2017/07/03/tesla-model-3-on-sale-friday/)
 
 Source: [Tesla says its affordable Model 3 car will go on sale on Friday – The Denver Post](http://www.denverpost.com/2017/07/03/tesla-model-3-on-sale-friday/)

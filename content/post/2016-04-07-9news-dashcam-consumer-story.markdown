@@ -21,4 +21,4 @@ I was just interviewed on camera by Jeremy Jojola for a [channel 9 news ](http:
 
 The segment will air sometime in May. The whole interview took about 20 minutes. TV news crews are apparently quite efficient with their time.
 
-![Phil, cameraperson, and Jeremy](https://philrw.files.wordpress.com/2016/04/img_20160407_131839.jpg)
+![Phil, cameraperson, and Jeremy](/images/img_20160407_131839.jpg)

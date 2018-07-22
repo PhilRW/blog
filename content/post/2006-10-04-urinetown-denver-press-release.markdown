@@ -13,4 +13,4 @@ wordpress_id: 269
 
 Tickets are now [on sale](http://www.urinetowndenver.org/tickets.html). And tonight we block Act I. :)
 
-[October 4 Press Release [PDF]](http://philrw.files.wordpress.com/2006/10/utown_tickets_on_sale.pdf)
+[October 4 Press Release [PDF]](/images/utown_tickets_on_sale.pdf)

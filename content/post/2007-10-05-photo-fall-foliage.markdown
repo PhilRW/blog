@@ -15,4 +15,4 @@ title: 'Photo: Fall Foliage'
 wordpress_id: 183
 ---
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2007/10/Fall_foliage-300x224.jpg)](http://philrw.files.wordpress.com/2007/10/fall_foliage.jpg)
+[![](/images/Fall_foliage-300x224.jpg)](/images/fall_foliage.jpg)

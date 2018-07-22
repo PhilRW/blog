@@ -20,4 +20,4 @@ Huh? Is this somebody at Dictionary.com's idea of a joke? When I first looked at
 
 Click on the graphic below to understand the humor in the situation. (That is, if you don't know how to say the word.)
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/08/orthoepy-300x84.jpg)](http://philrw.files.wordpress.com/2010/08/orthoepy.jpg)
+[![](/images/orthoepy-300x84.jpg)](/images/orthoepy.jpg)

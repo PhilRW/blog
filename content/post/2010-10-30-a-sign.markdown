@@ -16,4 +16,4 @@ wordpress_id: 2619
 
 This very clearly stared me down on the way to Grey Gardens callbacks. Yes, it's a sign. But is it a Sign?
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/10/IMG_0302-e1288467697836-225x300.jpg)](http://philrw.files.wordpress.com/2010/10/img_0302-e1288467697836.jpg)
+[![](/images/IMG_0302-e1288467697836-225x300.jpg)](/images/img_0302-e1288467697836.jpg)

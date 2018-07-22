@@ -14,4 +14,4 @@ title: The 43rd President of The United States of America
 wordpress_id: 363
 ---
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2005/03/bushs_weapon-250x300.jpg)](http://philrw.files.wordpress.com/2005/03/bushs_weapon.jpg)
+[![](/images/bushs_weapon-250x300.jpg)](/images/bushs_weapon.jpg)

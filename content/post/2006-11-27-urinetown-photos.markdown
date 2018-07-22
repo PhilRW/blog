@@ -19,16 +19,16 @@ wordpress_id: 241
 Here are some photos taken with Robert’s camera.
 
 Here’re a few of the cast members posing for an impromptu photo.
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/11/cast-300x225.jpg)](http://philrw.files.wordpress.com/2006/11/cast.jpg)
+[![](/images/cast-300x225.jpg)](/images/cast.jpg)
 
 Cladwell and his bunny slippers
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/11/bunnyslippers-225x300.jpg)](http://philrw.files.wordpress.com/2006/11/bunnyslippers.jpg)
+[![](/images/bunnyslippers-225x300.jpg)](/images/bunnyslippers.jpg)
 
 Warmups(?)
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/11/mark-300x225.jpg)](http://philrw.files.wordpress.com/2006/11/mark.jpg)
+[![](/images/mark-300x225.jpg)](/images/mark.jpg)
 
 Nap time (names not included to protect the shameless)
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/11/orgy-300x225.jpg)](http://philrw.files.wordpress.com/2006/11/orgy.jpg)
+[![](/images/orgy-300x225.jpg)](/images/orgy.jpg)
 
 Another backstage photo
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/11/zpl-300x225.jpg)](http://philrw.files.wordpress.com/2006/11/zpl.jpg)
+[![](/images/zpl-300x225.jpg)](/images/zpl.jpg)

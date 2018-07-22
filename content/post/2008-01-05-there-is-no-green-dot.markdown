@@ -16,4 +16,4 @@ wordpress_id: 133
 
 Check out this cool graphic. Stare at the center. A moving green dot will appear and eventually erase the magenta dots. Funny how the human eye works, isn’t it?
 
-[![](http://philrw.files.wordpress.com/2008/01/00a201c806af6c54330032db708b.gif)](http://philrw.files.wordpress.com/2008/01/00a201c806af6c54330032db708b.gif)
+[![](/images/00a201c806af6c54330032db708b.gif)](/images/00a201c806af6c54330032db708b.gif)

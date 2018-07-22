@@ -21,4 +21,4 @@ This was just too good (bad) not to post. I really wouldn't want someone like th
 
 
 
-[![](http://philrw.files.wordpress.com/2011/09/img_0846.jpg)](http://philrw.files.wordpress.com/2011/09/img_0846.jpg)
+[![](/images/img_0846.jpg)](/images/img_0846.jpg)

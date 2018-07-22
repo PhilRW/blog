@@ -14,4 +14,4 @@ wordpress_id: 84944
 
 Saw this on Saturday...
 
-[![2013-12-14 15.15.44](https://blog.rosenberg-watt.com/wp-content/uploads/2013/12/2013-12-14-15.15.44-300x225.jpg)](http://philrw.files.wordpress.com/2013/12/2013-12-14-15-15-44.jpg)
+[![2013-12-14 15.15.44](/images/2013-12-14-15.15.44-300x225.jpg)](/images/2013-12-14-15-15-44.jpg)

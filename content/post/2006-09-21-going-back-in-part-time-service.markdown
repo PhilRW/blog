@@ -15,4 +15,4 @@ After four years of sitting in the garage, I’ve decided to put my 1995 Chevy C
 
 My Golf TDI sure gets great mileage but boy is the Caprice fun to drive. :)
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/09/fried_pump_power-300x225.jpg)](http://philrw.files.wordpress.com/2006/09/fried_pump_power.jpg)
+[![](/images/fried_pump_power-300x225.jpg)](/images/fried_pump_power.jpg)

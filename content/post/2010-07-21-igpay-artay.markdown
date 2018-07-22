@@ -15,4 +15,4 @@ wordpress_id: 86049
 
 K drew this on paper, I just traced it in Illustrator.
 
-[![](http://philrw.files.wordpress.com/2010/07/babe.gif)](http://philrw.files.wordpress.com/2010/07/babe.gif)
+[![](/images/babe.gif)](/images/babe.gif)

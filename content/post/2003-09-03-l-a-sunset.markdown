@@ -16,4 +16,4 @@ wordpress_id: 451
 
 It’s beautiful until you realize why L.A. sunsets are that color....
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2003/09/102_0216-300x225.jpg)](http://philrw.files.wordpress.com/2003/09/102_0216.jpg)
+[![](/images/102_0216-300x225.jpg)](/images/102_0216.jpg)

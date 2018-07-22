@@ -18,7 +18,7 @@ wordpress_id: 85347
 ---
 
 Either this person has a great sense of humor or I am in trouble.
-[![Re: Typo](http://philrw.files.wordpress.com/2015/03/screenshot-2015-03-16-14-01-56.png)](http://philrw.files.wordpress.com/2015/03/screenshot-2015-03-16-14-01-56.png)
+[![Re: Typo](/images/screenshot-2015-03-16-14-01-56.png)](/images/screenshot-2015-03-16-14-01-56.png)
 
 Also see [most recent Osophy](https://blog.rosenberg-watt.com/2015/03/12/osophy-on-names-common-misspellings-of/).
 

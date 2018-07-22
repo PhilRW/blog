@@ -15,4 +15,4 @@ wordpress_id: 3168
 
 Just another reason why our local news websites are not ready for prime time:
 
-[![Workers Accidentally Cuts Gas Line At Denver Zoo](http://philrw.files.wordpress.com/2011/02/no-editor-on-duty.jpg)](http://philrw.files.wordpress.com/2011/02/no-editor-on-duty.jpg)
+[![Workers Accidentally Cuts Gas Line At Denver Zoo](/images/no-editor-on-duty.jpg)](/images/no-editor-on-duty.jpg)

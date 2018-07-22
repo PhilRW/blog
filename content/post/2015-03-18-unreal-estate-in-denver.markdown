@@ -71,7 +71,7 @@ Finally, looking back six months reveals [When will the rental/housing market b
 
 
 
-![house bubble](https://blog.rosenberg-watt.com/wp-content/uploads/2015/03/house-bubble-150x150.png)
+![house bubble](/images/house-bubble-150x150.png)
 
 So... we're open to alternate ideas, including mobile homes, [tiny houses](http://tinyhouseblog.com/), RVs, or whatever. Does anybody have a large lot in Boulder/Louisville/Superior where we could park a trailer? We'd pay you rent!
 

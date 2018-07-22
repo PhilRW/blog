@@ -15,6 +15,6 @@ title: Floors! Floors! Floors!
 wordpress_id: 3793
 ---
 
-[![20111030-190632.jpg](http://philrw.files.wordpress.com/2011/10/20111030-190632.jpg)](http://philrw.files.wordpress.com/2011/10/20111030-190632.jpg)
+[![20111030-190632.jpg](/images/20111030-190632.jpg)](/images/20111030-190632.jpg)
 
 Finally... the living room is DONE!

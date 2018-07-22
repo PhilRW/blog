@@ -14,4 +14,4 @@ wordpress_id: 126
 
 dated ca. Dec. 1985, photo taken today
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2008/01/IMG_0572-200x300.jpg)](http://philrw.files.wordpress.com/2008/01/img_0572.jpg)
+[![](/images/IMG_0572-200x300.jpg)](/images/img_0572.jpg)

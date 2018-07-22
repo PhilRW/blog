@@ -18,4 +18,4 @@ I thought I’d make this Sony Ericsson-suitable background jpeg
 available to all you cool cats out there who want a close up of the
 Euphonix System 5F on your mobile. Took it myself. Enjoy.
 
-[![](http://philrw.files.wordpress.com/2005/01/euphonix_2.jpg)](http://philrw.files.wordpress.com/2005/01/euphonix_2.jpg)
+[![](/images/euphonix_2.jpg)](/images/euphonix_2.jpg)

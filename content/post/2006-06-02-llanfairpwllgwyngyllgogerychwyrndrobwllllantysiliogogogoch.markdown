@@ -19,4 +19,4 @@ A place in the UK. One of the longest placenames in the world.
 
 [http://en.wikipedia.org/wiki/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](http://en.wikipedia.org/wiki/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch)
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/06/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_station_sign_cropped_version_1-300x211.jpg)](http://philrw.files.wordpress.com/2006/06/llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_station_sign_cropped_version_1.jpg)
+[![](/images/Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_station_sign_cropped_version_1-300x211.jpg)](/images/llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_station_sign_cropped_version_1.jpg)

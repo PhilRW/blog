@@ -18,4 +18,4 @@ wordpress_id: 39262
 
 Um, I'm sorry... what?
 
-![](http://philrw.files.wordpress.com/2012/05/hebrewcaptcha.jpg)
+![](/images/hebrewcaptcha.jpg)

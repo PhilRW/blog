@@ -18,4 +18,4 @@ wordpress_id: 3227
 
 It's okay, everybody. Apparently at least one member of the A-Team works in my building.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2011/03/IMG_0557-300x224.jpg)](http://philrw.files.wordpress.com/2011/03/img_0557.jpg)
+[![](/images/IMG_0557-300x224.jpg)](/images/img_0557.jpg)

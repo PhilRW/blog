@@ -15,6 +15,6 @@ wordpress_id: 38265
 
 Look! I built a step! It's even level and everything.
 
-![](https://blog.rosenberg-watt.com/wp-content/uploads/2012/05/Photo-May-08-7-57-161-e1336490996517-224x300.jpg)
+![](/images/Photo-May-08-7-57-161-e1336490996517-224x300.jpg)
 
 Oh yeah, I also put that door in, too. But I built the step last night.

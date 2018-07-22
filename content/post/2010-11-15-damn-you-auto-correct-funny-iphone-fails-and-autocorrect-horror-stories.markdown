@@ -19,4 +19,4 @@ Hi-freakin-larious. Another find by my friend [Randy](http://mentalfloss.com/aut
 
 [Damn You Auto Correct! - Funny iPhone Fails and Autocorrect Horror Stories](http://www.damnyouautocorrect.com/).
 
-[![](http://philrw.files.wordpress.com/2010/11/coming-too-strong.jpg)](http://www.damnyouautocorrect.com/)
+[![](/images/coming-too-strong.jpg)](http://www.damnyouautocorrect.com/)

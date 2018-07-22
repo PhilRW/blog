@@ -14,6 +14,6 @@ wordpress_id: 292
 
 Strategically placed to catch meals, no screen on the window.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2006/06/116_1650-300x224.jpg)](http://philrw.files.wordpress.com/2006/06/116_1650.jpg)
+[![](/images/116_1650-300x224.jpg)](/images/116_1650.jpg)
 
 I was about to lean out the window, good thing I noticed her.

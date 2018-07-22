@@ -12,4 +12,4 @@ title: 'Unfortunate Fortune: What Does This Mean?!'
 wordpress_id: 64821
 ---
 
-[caption id="attachment_64822" align="alignnone" width="300"][![Watch your relations without other people carefully, he reserved.](https://blog.rosenberg-watt.com/wp-content/uploads/2013/01/IMG_1643-300x168.jpg)](http://philrw.files.wordpress.com/2013/01/img_1643.jpg) Watch your relations without other people carefully, he reserved.[/caption]
+[caption id="attachment_64822" align="alignnone" width="300"][![Watch your relations without other people carefully, he reserved.](/images/IMG_1643-300x168.jpg)](/images/img_1643.jpg) Watch your relations without other people carefully, he reserved.[/caption]

@@ -15,4 +15,4 @@ title: On Substantial Blog Entries, Lack of
 wordpress_id: 2359
 ---
 
-[![](http://philrw.files.wordpress.com/2010/07/404-substance.jpg)](http://philrw.files.wordpress.com/2010/07/404-substance.jpg)
+[![](/images/404-substance.jpg)](/images/404-substance.jpg)

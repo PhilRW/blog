@@ -17,4 +17,4 @@ wordpress_id: 2320
 
 Witnessed tossing a cigarette butt out the window at approx. Irving & 35th.
 
-[![](https://blog.rosenberg-watt.com/wp-content/uploads/2010/07/CO-162-ONM-300x225.jpg)](http://philrw.files.wordpress.com/2010/07/co-162-onm.jpg)
+[![](/images/CO-162-ONM-300x225.jpg)](/images/co-162-onm.jpg)

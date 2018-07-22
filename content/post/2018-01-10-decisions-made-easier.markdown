@@ -15,9 +15,11 @@ title: Decisions Made Easier
 wordpress_id: 87174
 ---
 
-This is a follow up to [Decisions Made Easy](https://philrw.wordpress.com/2017/11/17/decisions-made-easy/). We now have 59 days of net metering data and are able to get a more accurate picture of what late-in-the-year rooftop residential PV looks like at our latitude.<!--more-->
+![/images/screen-shot-2018-01-10-at-11-56-31.png](/images/screen-shot-2018-01-10-at-11-56-31.png)
 
-    
+This is a follow up to [Decisions Made Easy](/2017/11/17/decisions-made-easy/). We now have 59 days of net metering data and are able to get a more accurate picture of what late-in-the-year rooftop residential PV looks like at our latitude.<!--more-->
+
+
     2017-11-12 Sun: TOU $-0.48 vs flat-rate $-0.25
     2017-11-13 Mon: TOU $-0.71 vs flat-rate $-0.31
     2017-11-14 Tue: TOU $-0.31 vs flat-rate $ 0.00
@@ -95,18 +97,16 @@ This is a follow up to [Decisions Made Easy](https://philrw.wordpress.com/2017/1
     ======costs=======
     TOU sum:  $  73.88
     flat sum: $  94.49
-    
-
 
 It's not quite the ridiculous savings ratio indicated by the first few days of usage, but it's still a savings, and accomplished by simply switching rates. I expect it to increase as the days do in sunlight.
 
 I compared our first utility bill to the readings from the same (or very similar) interval and they matched pretty well for a [$100 home energy meter](https://aeotec.com/z-wave-home-energy-measure):
 
-![Screen Shot 2018-01-10 at 11.47.09.png](https://philrw.files.wordpress.com/2018/01/screen-shot-2018-01-10-at-11-47-09.png)
+![Screen Shot 2018-01-10 at 11.47.09.png](/images/screen-shot-2018-01-10-at-11-47-09.png)
 
-    
+
     =====TOU kWh======
     On-Peak:         3
     Shoulder:       60
     Off-Peak:      272
-    
+

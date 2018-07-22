@@ -17,4 +17,4 @@ wordpress_id: 3360
 
 Product placement in computer programs?
 
-[![(0.0 KB/sec, a long time left. Grab a Snickers)](https://blog.rosenberg-watt.com/wp-content/uploads/2011/05/IMG_0624-300x224.jpg)](http://philrw.files.wordpress.com/2011/05/img_0624.jpg)
+[![(0.0 KB/sec, a long time left. Grab a Snickers)](/images/IMG_0624-300x224.jpg)](/images/img_0624.jpg)
