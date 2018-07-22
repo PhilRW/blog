@@ -1,0 +1,22 @@
+---
+author: philrw
+categories:
+- Poetry
+comments: true
+date: "2010-11-17T15:20:15Z"
+link: https://philrw.wordpress.com/2010/11/17/funny/
+slug: funny
+tags:
+- blog
+- heartbreak
+- limerick
+- writing
+title: Funny
+wordpress_id: 2837
+---
+
+When your heart has been broken in twain,
+    Feeling nothing but sorrow and pain,
+    Be a bump on a log,
+    Stuff it all in your blog.
+    Really, who wants to hear you complain?

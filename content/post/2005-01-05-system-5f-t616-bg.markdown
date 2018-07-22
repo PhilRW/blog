@@ -1,0 +1,21 @@
+---
+author: philrw
+categories:
+- Film/TV/Theater
+comments: true
+date: "2005-01-05T11:27:01Z"
+link: https://philrw.wordpress.com/2005/01/05/system-5f-t616-bg/
+post_format:
+- Image
+slug: system-5f-t616-bg
+tags:
+- USC
+title: System 5F T616 BG
+wordpress_id: 411
+---
+
+I thought I’d make this Sony Ericsson-suitable background jpeg
+available to all you cool cats out there who want a close up of the
+Euphonix System 5F on your mobile. Took it myself. Enjoy.
+
+[![](http://philrw.files.wordpress.com/2005/01/euphonix_2.jpg)](http://philrw.files.wordpress.com/2005/01/euphonix_2.jpg)

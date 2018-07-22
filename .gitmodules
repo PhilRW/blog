@@ -1,0 +1,9 @@
+[submodule "themes/herring-cove"]
+	path = themes/herring-cove
+	url = https://github.com/spf13/herring-cove.git
+[submodule "themes/jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git

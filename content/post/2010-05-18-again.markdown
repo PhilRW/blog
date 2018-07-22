@@ -1,0 +1,17 @@
+---
+author: philrw
+categories:
+- Personal
+comments: true
+date: "2010-05-18T09:45:44Z"
+link: https://philrw.wordpress.com/2010/05/18/again/
+post_format:
+- Quote
+slug: again
+tags:
+- job search
+title: :( Again
+wordpress_id: 20
+---
+
+<blockquote>Hi, Phil. We gave it a long look but in the end we decided to hire someone else instead.  Thank you for your time and good luck in your search.</blockquote>

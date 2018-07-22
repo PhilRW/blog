@@ -1,0 +1,20 @@
+---
+author: philrw
+categories:
+- Poetry
+comments: true
+date: "2010-11-16T18:34:46Z"
+link: https://philrw.wordpress.com/2010/11/16/rimelick/
+slug: rimelick
+tags:
+- humor
+- limerick
+title: Rimelick
+wordpress_id: 2831
+---
+
+Should the blogger keep strict to his text,
+    With his follower reading what's next
+    Unabash-ed does find
+    Speaking plainly his mind
+    Does profoundly exclaim "oversexed!"
