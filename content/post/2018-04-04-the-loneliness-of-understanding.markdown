@@ -19,6 +19,8 @@ What do you see when you look at a wall?
 
 A regular wall, in your house.
 
+<!--more-->
+
 I see paint, and texture. And sheen. Typically paint stores sell you on four different gradations of sheen, but really you could probably mix up an infinitely variable continuum of sheen if you had the correct proportions of paint. The more the paint produces a specular reflection, the higher the sheen. It has to do with how the surface of the material reflects or scatters the photons of light striking it. Or something like that.
 
 The texture is typically a knockdown texture, caused by spraying on drywall mud-like substance at a particular volume, pressure, and distance likely by using a gravity-fed hopper-style device that contains the material, connected to a tube of some kind coming from what is essentially a reverse vacuum fed by an AC motor used to push the air/mud mixture through the appropriate size and shape nozzle. Then the texture is flattened somewhat using a big flat wiping device to give it an even height. However, walls lately are going with the flat, or untextured, look, a look I particularly like. It also means less surface area so you can cover more wall square footage with less paint. It is more difficult, though. So you'd probably want to use a duller paint on flatter walls to hide the imperfections, though this compromises your ability to keep it clean long-term, which could result in higher maintenance costs over the long run as you may have to repaint it more frequently, but I digress....

@@ -21,6 +21,9 @@ PygmentsOptions = "linenos=table"
 [permalinks]
   post = "/:year/:month/:day/:title/"
 
+layoutsDir = "layouts"
+summaryLength = 89
+
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en-us"           # Default language to use
 [languages.en]
@@ -65,6 +68,7 @@ defaultContentLanguage = "en-us"           # Default language to use
 
 
 [params]
+
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2003"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
@@ -76,7 +80,7 @@ defaultContentLanguage = "en-us"           # Default language to use
   description = "The inconsequential ramblings of Phil."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archive-paginate = 5
+  archive-paginate = 89
 
   # paginate style, default use numbered pagination links
   # if true, use original "Previous" and "Next" links.

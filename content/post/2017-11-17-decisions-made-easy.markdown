@@ -18,6 +18,8 @@ wordpress_id: 87167
 
 Data makes decisions easier. Let's look at an example:
 
+<!--more-->
+
 
   1. We recently got solar panels on our house. We're producing power and all is good.
 

@@ -17,7 +17,9 @@ wordpress_id: 87174
 
 ![/images/screen-shot-2018-01-10-at-11-56-31.png](/images/screen-shot-2018-01-10-at-11-56-31.png)
 
-This is a follow up to [Decisions Made Easy](/2017/11/17/decisions-made-easy/). We now have 59 days of net metering data and are able to get a more accurate picture of what late-in-the-year rooftop residential PV looks like at our latitude.<!--more-->
+This is a follow up to [Decisions Made Easy](/2017/11/17/decisions-made-easy/). We now have 59 days of net metering data and are able to get a more accurate picture of what late-in-the-year rooftop residential PV looks like at our latitude.
+
+<!--more-->
 
 
     2017-11-12 Sun: TOU $-0.48 vs flat-rate $-0.25

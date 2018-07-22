@@ -16,7 +16,9 @@ title: Opportunity Power Knocks
 wordpress_id: 87098
 ---
 
-Our house now has 9.975KW of solar panels on the roof and an [SMA Sunny Boy 7.7KW inverter](https://www.sma-america.com/products/solarinverters/sunny-boy-30-us-38-us-50-us-60-us-70-us-77-us.html) in the basement to turn all of that DC power into AC power.<!--more-->
+Our house now has 9.975KW of solar panels on the roof and an [SMA Sunny Boy 7.7KW inverter](https://www.sma-america.com/products/solarinverters/sunny-boy-30-us-38-us-50-us-60-us-70-us-77-us.html) in the basement to turn all of that DC power into AC power.
+
+<!--more-->
 
 While we wait for Xcel energy to provide us with a net meter, I wired up the Secure Power Supply (SPS) outlets to provide us opportunity power during the day. SPS can only be activated during a grid outage (or what is essentially one from the inverter's POV when it's disconnected from the power grid while waiting for a net meter from the power company). SPS provides up to 2000W of 120V AC power from an outlet (or outlets) connected directly to the inverter: no battery system necessary.
 

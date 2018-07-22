@@ -12,10 +12,11 @@ tags:
 - fail
 - law
 - traffic
+- youtube
 title: We're watching
 wordpress_id: 87192
 ---
 
 We, the decent drivers who try to obey the traffic laws for the safety of our fellow man, are watching....
 
-https://youtu.be/mlrPDKcdkRE
+[![SUV runs red light](http://img.youtube.com/vi/mlrPDKcdkRE/0.jpg)](http://www.youtube.com/watch?v=mlrPDKcdkRE)

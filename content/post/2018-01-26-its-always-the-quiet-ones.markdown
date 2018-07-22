@@ -15,6 +15,6 @@ title: It's Always the Quiet Ones
 wordpress_id: 87180
 ---
 
-![1516997035695-d6cae239-b1ee-437b-9c5a-e658d51aec44_](/images/1516997035695-d6cae239-b1ee-437b-9c5a-e658d51aec44_.jpg)
+![X-Y scatter graph of doing vs complaining: engineers, politicians, and time bombs](/images/1516997035695-d6cae239-b1ee-437b-9c5a-e658d51aec44_.jpg)
 
 This post inspired by [Indexed](http://thisisindexed.com/)

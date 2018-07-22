@@ -15,6 +15,6 @@ title: '"Precision is Important" or "Lessons in Floating Point Math"'
 wordpress_id: 87183
 ---
 
+![](/images/screen-shot-2018-02-15-at-09-41-33.png)
+
 That 0.00000000000001 percent makes all the difference.
-
-

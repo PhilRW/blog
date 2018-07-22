@@ -16,7 +16,11 @@ title: O Comcast, Where Art Thou?
 wordpress_id: 87189
 ---
 
+![](/images/screen-shot-2018-03-06-at-11-35-44.png)
+
 My home internet has been pretty crappy for the past couple of weeks now. It is so bad that I set up a [SmokePing](https://oss.oetiker.ch/smokeping/) server to quantify my misery, as I have a Modem of Constant Sorrow that won't stay online for more than a day or so without rebooting.
+
+<!--more-->
 
 We've replaced the CM and checked the interior wiring.
 
