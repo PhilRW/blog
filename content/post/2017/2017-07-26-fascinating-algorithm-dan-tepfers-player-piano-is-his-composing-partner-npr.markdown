@@ -30,8 +30,7 @@ Apply styles? Harmonize? Randomize?'
 
 Want one. But better.[![](/images/dan1_wide-4d511594734655bc39d09d97e5d484be0a44c316.jpg)](http://www.npr.org/2017/07/24/538677517/fascinating-algorithm-dan-tepfers-player-piano-is-his-composing-partner?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social)
 
-
-<blockquote>Tepfer sees jazz as the pursuit of freedom within a framework — a premise that underlies his work with improvisational algorithms and a Yamaha Disklavier. He unpacks the project in this video.</blockquote>
+> Tepfer sees jazz as the pursuit of freedom within a framework — a premise that underlies his work with improvisational algorithms and a Yamaha Disklavier. He unpacks the project in this video.
 
 
 Source: [Fascinating Algorithm: Dan Tepfer's Player Piano Is His Composing Partner : NPR](http://www.npr.org/2017/07/24/538677517/fascinating-algorithm-dan-tepfers-player-piano-is-his-composing-partner)

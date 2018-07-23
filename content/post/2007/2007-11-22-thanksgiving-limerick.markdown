@@ -13,8 +13,8 @@ title: Thanksgiving Limerick
 wordpress_id: 158
 ---
 
-If the chef burns her turkey, I’ve heard
-That the diners should not say a word.
-Yet if fam’ly complains
-‘Bout the smoking remains,
+If the chef burns her turkey, I’ve heard  
+That the diners should not say a word.  
+Yet if fam’ly complains  
+‘Bout the smoking remains,  
 She should certainly give them the bird!

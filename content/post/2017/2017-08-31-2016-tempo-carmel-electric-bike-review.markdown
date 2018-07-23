@@ -28,34 +28,25 @@ I have been obsessively researching ebikes online since my 2008-ish Currie eZip 
 
 
 
-	
+
   * mid-drive
 
-	
   * class 1 (pedal-assist only, up to 20 mph)
 
-	
   * traditional high-step frame for extra stability at speed
 
-	
   * upright seating posture for comfort and to keep weight off my hands as much as possible
 
-	
   * front suspension
 
-	
   * hydraulic disc brakes
 
-	
   * [NuVinci transmission with automatic shifting](http://www.nuvincicycling.com/en/products/harmony.html)
 
-	
   * [Gates Carbon Drive belt](http://www.gatescarbondrive.com/) for long term durability, quiet, smoothness, and (potentially) lower long-term maintenance
 
-	
   * integrated light(s), if possible
 
-	
   * battery as close to the center of the bike as possible for better balance and stability
 
 
@@ -79,19 +70,15 @@ On to the controls. There is a five-button controller near the left grip that ha
 
 
 
-	
+
   * + (increase assist level)
 
-	
   * - (decrease assist level)
 
-	
   * light (toggle on/off)
 
-	
   * mode (toggle through display modes)
 
-	
   * walk (hold for low-speed motor assist)
 
 
