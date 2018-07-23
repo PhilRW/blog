@@ -13,7 +13,7 @@ title: Exhaust-ed
 wordpress_id: 86722
 ---
 
-![IMG_20170722_182241](/images/img_20170722_182241.jpg)
+![kitchen with over-the-range microwave and vent tube extending up into ceiling](/images/img_20170722_182241.jpg)
 
 Today we installed an over-the-range microwave that we had special ordered from Lowe's almost a month prior. Most of the time was waiting for it to arrive. We really wanted a unit that had a mute button. Why must microwaves beep incessantly? (Plus don't get me started on the awful UI. Can't GE hire a UI/UX Engineer to fix the damn interfaces on these things?!)<!--more-->
 

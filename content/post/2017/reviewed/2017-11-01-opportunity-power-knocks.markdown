@@ -16,6 +16,8 @@ title: Opportunity Power Knocks
 wordpress_id: 87098
 ---
 
+![solar panels on roof](/images/img_20171020_103650.jpg)
+
 Our house now has 9.975KW of solar panels on the roof and an [SMA Sunny Boy 7.7KW inverter](https://www.sma-america.com/products/solarinverters/sunny-boy-30-us-38-us-50-us-60-us-70-us-77-us.html) in the basement to turn all of that DC power into AC power.
 
 <!--more-->

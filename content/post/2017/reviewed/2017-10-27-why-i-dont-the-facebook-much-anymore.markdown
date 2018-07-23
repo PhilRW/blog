@@ -13,9 +13,11 @@ title: Why I Don't The Facebook Much Anymore
 wordpress_id: 87071
 ---
 
+![facebook logo sprouting dendrils](/images/1509120439946-a4dcc7c0-ae88-457f-a189-3ae056a63a4b_.jpg)
+
 Here are some things I have come to believe about [Facebook](https://www.facebook.com/):
 
-<--more-->
+<!--more-->
 
 
   * It is not acting in your best interest.

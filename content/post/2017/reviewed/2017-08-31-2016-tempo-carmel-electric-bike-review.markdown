@@ -20,13 +20,13 @@ title: 2016 Tempo Carmel Electric Bike Review
 wordpress_id: 86767
 ---
 
+![bike in front of wall](/images/img_20170830_160028.jpg)
+
 I recently purchased this ebike and since I couldn't find any in-depth reviews online, I thought I'd share my observations.
 
 <!--more-->
 
 I have been obsessively researching ebikes online since my 2008-ish Currie eZip Trailz started to accelerate its deterioration. Sure, I could buy new tires, true the rear wheel, replace the brake pads, and replace the throttle assembly, but even after all that (which would probably cost about as much as the bike originally did), I'd still have a low-torque (about 10-20 Nm), noisy ebike with heavy 24V batteries. So in a flurry of ebike test rides (both for me and for my wife who would like to flatten out the big hill coming home as the last obstacle to consistent bike commuting), I encountered the [Tempo Carmel](http://tempobicycles.com/carmel/).In my research I wanted to find a high-tech ebike with the following characteristics:
-
-
 
 
   * mid-drive
@@ -67,13 +67,9 @@ The handling of the Tempo is quite nice on dry pavement and I feel more confiden
 On to the controls. There is a five-button controller near the left grip that has the following five buttons:
 
 
+  * \+ (increase assist level)
 
-
-
-
-  * + (increase assist level)
-
-  * - (decrease assist level)
+  * \- (decrease assist level)
 
   * light (toggle on/off)
 
@@ -92,4 +88,47 @@ The front suspension is a single-spring system with pretension adjustment and no
 
 My other top contenders were the [Felt Verza E 10](https://www.feltbicycles.com/International/2016/Bikes/electric/road/verzae-10.aspx), the [Bulls Lacuba Evo E8](http://www.bullsebikes.com/product/lacuba-evo-e8/), and the [Wallerang](https://www.wallerang.com/gb/10-modular-one-e-bike). The Felt uses the Bosch system and both the local dealers that I tried were having trouble with some of the the display/head units. The Bulls is a nice bike but I really wanted the NuVinci automatic shifting for a truly brain-dead biking experience. Also the Wallerang Di2 auto-shifting with the Alfine 8 was really cool, and was a strong contender. But the low-maintenance of the belt drive won out.
 
-[gallery ids="86886,86889,86890,86891,86892,86893,86894,86895,86896,86897,86898,86899,86900,86901,86902,86903,86904,86905,86906,86907,86908"]
+![2016 Tempo Carmel](/images/img_20170830_160028.jpg)
+
+![MPF system computer/controller](/images/img_20170830_160110.jpg)
+
+![front light](/images/img_20170830_160124.jpg)
+
+![cockpit area (bell is mine)](/images/img_20170830_160333.jpg)
+
+![left grip and control pad](/images/img_20170830_160318.jpg)
+
+![right grip](/images/img_20170830_160309.jpg)
+
+![adjustable stem](/images/img_20170830_160505.jpg)
+
+![saddle](/images/img_20170830_160422.jpg)
+
+![suspension seatpost](/images/img_20170830_160414.jpg)
+
+![pedal](/images/img_20170830_160345.jpg)
+
+![pedal reflector](/images/img_20170830_160350.jpg)
+
+![drive system rear view](/images/img_20170830_160433.jpg)
+
+![drive system side view](/images/img_20170830_160219.jpg)
+
+![NuVinvi Harmony servo motor](/images/img_20170830_160210.jpg)
+
+![rear disc brake](/images/img_20170830_160200.jpg)
+
+![rear disc brake closeup](/images/img_20170830_160154.jpg)
+
+![NuVinci N360](/images/img_20170830_160148.jpg)
+
+![speed sensor](/images/img_20170830_160614.jpg)
+
+![front brake](/images/img_20170830_160246.jpg)
+
+![front brake closeup](/images/img_20170830_160258.jpg)
+
+![kickstand](/images/img_20170830_160641.jpg)
+
+
+

@@ -14,6 +14,8 @@ title: Where Will You Land?
 wordpress_id: 87146
 ---
 
+![asterisk](/images/1509987488998-9e269cc1-ff5d-4123-b9c6-c93ea010c35a.jpg)
+
 As Facebook comes crumbling down and the mass exodus begins, what platform will people move to that doesn't control them so algorithmically?
 
 <!--more-->

@@ -18,6 +18,8 @@ title: Taxing Our Economy
 wordpress_id: 87120
 ---
 
+![wrong way](/images/1509729397448-1daf1d6a-e0b8-406b-a0f8-3762c56e508d_.jpg)
+
 The proposed tax plan is bad on many levels, but one way in which it will directly hurt American jobs, manufacturing, the economy, and the environment is by immediately repealing the EV tax credit ([IRS Section 30D](https://www.irs.gov/businesses/plug-in-electric-vehicle-credit-irc-30-and-irc-30d)) instead of letting it expire of its own accord.
 
 <!--more-->

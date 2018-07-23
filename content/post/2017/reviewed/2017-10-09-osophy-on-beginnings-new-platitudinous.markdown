@@ -17,4 +17,6 @@ title: Osophy on Beginnings, New, Platitudinous
 wordpress_id: 87017
 ---
 
+![blog](/images/img_20171006_143113.jpg)
+
 Today is the first day of the rest of my [_ submit as comment _].
