@@ -13,7 +13,7 @@ title: 'UPS (Mis)delivery: Public Shaming, Part II'
 wordpress_id: 86561
 ---
 
-After the failure of my package to arrive yesterday, I re-routed a couple of other incoming packages scheduled for today to a nearby UPS Store for pickup.
+After the failure of my package to arrive yesterday, I re-routed a couple of other incoming packages scheduled for today to a nearby UPS Store for pickup.<!--more-->
 
 I get an email notification at 11:05 that my _other_ packages are ready for pickup. I walk over during lunch. They're not there. The person working there says they frequently do this, and that I should come back after 3pm or so.
 

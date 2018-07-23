@@ -18,12 +18,12 @@ PygmentsUseClasses = true # Use CSS classes to format highlighted code
 PygmentsCodefencesGuessSyntax = true
 PygmentsOptions = "linenos=table"
 
-[permalinks]
-  post = "/:year/:month/:day/:title/"
-
 layoutsDir = "layouts"
 summaryLength = 89
 publishDir = "/keybase/private/philrw,kbpbot/blog.rosenberg-watt.com"
+
+[permalinks]
+  post = "/:year/:month/:day/:title/"
 
 
 # language support # en / zh-cn / other... translations present in i18n/

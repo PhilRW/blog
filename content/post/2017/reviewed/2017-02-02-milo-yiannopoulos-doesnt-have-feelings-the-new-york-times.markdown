@@ -13,7 +13,7 @@ title: Milo Yiannopoulos Doesn’t Have Feelings - The New York Times
 wordpress_id: 86564
 ---
 
-It's sadly ironic to see UC Berkeley, of all places, protesting somebody like Milo. Then again, the right to protest is also a matter of free speech, so long as it is done peacefully.
+It's sadly ironic to see UC Berkeley, of all places, protesting somebody like Milo. Then again, the right to protest is also a matter of free speech, so long as it is done peacefully.<!--more-->
 
 Anyway, I think this guy is great: a funny, intelligent, provocateur. He's well suited to getting a younger generation to introspect a bit on free speech. His literary style isn't subtle, but it is appropriate for the audience. I just think that his talents are being wasted at a place like Breitbart, which doesn't attract the readership that would appreciate him the most. Then again, it could be the perfect place for him....
 
