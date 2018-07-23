@@ -17,4 +17,4 @@ It's sadly ironic to see UC Berkeley, of all places, protesting somebody like Mi
 
 Anyway, I think this guy is great: a funny, intelligent, provocateur. He's well suited to getting a younger generation to introspect a bit on free speech. His literary style isn't subtle, but it is appropriate for the audience. I just think that his talents are being wasted at a place like Breitbart, which doesn't attract the readership that would appreciate him the most. Then again, it could be the perfect place for him....
 
-[embed]https://www.nytimes.com/2016/05/08/magazine/milo-yiannopoulos-doesnt-have-feelings.html?action=click&contentCollection=U.S.&module=RelatedCoverage&region=EndOfArticle&pgtype=article[/embed]
+https://www.nytimes.com/2016/05/08/magazine/milo-yiannopoulos-doesnt-have-feelings.html?action=click&contentCollection=U.S.&module=RelatedCoverage&region=EndOfArticle&pgtype=article

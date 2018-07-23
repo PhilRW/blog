@@ -24,8 +24,7 @@ Nah, let other folks like Jake Fuentes go first. I just wanna drive my car.
 
 But save your ammo for when you'll really need it. Hopefully not literally.
 
-
-<blockquote>We’ve just tested the country’s willingness to capitulate to a fascist regime.</blockquote>
+> We’ve just tested the country’s willingness to capitulate to a fascist regime.
 
 
 Source: [The Immigration Ban is a Headfake, and We’re Falling For It – Medium](https://medium.com/@jakefuentes/the-immigration-ban-is-a-headfake-and-were-falling-for-it-b8910e78f0c5)

@@ -16,4 +16,4 @@ wordpress_id: 86571
 
 So Amazon customer service is excellent. Over chat and the course of 15 minutes, they refunded my lost shipment, I placed a new order with 1-day shipping, and they promised to refund the cost of the expedited shipping on the new order.
 
-Source: [UPS (Mis)delivery: Public Shaming, Part II – Phil's Osophies™](https://philrw.wordpress.com/2017/02/01/ups-misdelivery-public-shaming-part-ii/)
+Source: [UPS (Mis)delivery: Public Shaming, Part II – Phil's Osophies™](/2017/02/01/ups-misdelivery-public-shaming-part-ii/)

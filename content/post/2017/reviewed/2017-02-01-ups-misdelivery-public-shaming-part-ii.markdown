@@ -21,4 +21,10 @@ Meanwhile, Amazon is making me wait 36 hours until reporting the first shipment 
 
 Good job, UPS. You're 0 for 2 this week. From now on I'm shipping all items to my work.
 
-Source: [UPS (Mis)delivery: Public Shaming – Phil's Osophies™](https://philrw.wordpress.com/2017/01/31/ups-misdelivery-public-shaming/)
+Source: [UPS (Mis)delivery: Public Shaming – Phil's Osophies™](/2017/01/31/ups-misdelivery-public-shaming/)
+
+----
+
+## 2017-02-03 at 08:47
+
+UPDATE/Follow up: The packages were there when I went back a few hours later. The owner of the store told me that 2 of the 3 packages were actually there when I first came in, but he misread my name.

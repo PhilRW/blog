@@ -16,4 +16,4 @@ wordpress_id: 86573
 
 I seriously hope this portends an imminent return of [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty).
 
-[![](/images/share.jpg)](http://fedconnect.galacticfederation.com/)Source: [- : F E D C O N N E C T : -](http://fedconnect.galacticfederation.com)
+[![fedconnect.galacticfederation.com terminal screen](/images/share.jpg)](http://fedconnect.galacticfederation.com/)Source: [- : F E D C O N N E C T : -](http://fedconnect.galacticfederation.com)

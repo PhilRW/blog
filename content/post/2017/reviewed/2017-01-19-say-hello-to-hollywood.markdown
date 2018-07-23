@@ -17,10 +17,9 @@ Today is the last day of the United States of America as you and I know it. Cher
 
 If this next POTUS is to be the end of all of us, we can at least take solace in the fact that we will all go together when we go.
 
+> > Life is like a sewer. What you get out of it depends on what you put into it.
+> >
+> > <cite>Hen3ry</cite>
+>
+> <cite>Tom Lehrer</cite>
 
-<blockquote>Life is like a sewer. What you get out of it depends on what you put into it.
-
--Hen3ry</blockquote>
-
-
--Tom Lehrer

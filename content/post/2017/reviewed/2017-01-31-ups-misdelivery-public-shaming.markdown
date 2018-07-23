@@ -13,12 +13,13 @@ tags:
 - technology
 - transportation
 - UPS
+- youtube
 title: 'UPS (Mis)delivery: Public Shaming'
 wordpress_id: 86553
 ---
 
 UPS, your online package tracking says that you delivered to my house at 12:26pm today. My video camera says otherwise!
 
-https://youtu.be/BRTR6PcoECE
+[![UPS truck does not turn down street in front of house](http://img.youtube.com/vi/BRTR6PcoECE/0.jpg)](http://www.youtube.com/watch?v=BRTR6PcoECE)
 
 Where's my stuff, dammit?!
