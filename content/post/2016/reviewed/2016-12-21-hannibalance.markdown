@@ -11,10 +11,11 @@ tags:
 - finance
 - happiness
 - success
+- youtube
 title: Hannibalance
 wordpress_id: 86509
 ---
 
 Whenever I reconcile my accounts to the penny after not doing it for a while...
 
-[!["I love it when a plan comes together."](http://img.youtube.com/vi/FPQlXNH36mI/0.jpg)](http://www.youtube.com/watch?v=FPQlXNH36mI)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FPQlXNH36mI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
