@@ -16,6 +16,6 @@ wordpress_id: 86278
 
 This time it is not an SSD but a regular external USB drive.
 
-![Screen Shot 2016-11-01 at 13.10.36.png](/images/screen-shot-2016-11-01-at-13-10-36.png)
+![265 of 249 GB free](/images/screen-shot-2016-11-01-at-13-10-36.png)
 
-See [part 1 here](https://philrw.wordpress.com/2012/03/23/the-magical-macbook-air/)
+See [part 1 here](/2012/03/23/the-magical-macbook-air/)

@@ -19,4 +19,4 @@ wordpress_id: 87192
 
 We, the decent drivers who try to obey the traffic laws for the safety of our fellow man, are watching....
 
-[![SUV runs red light](http://img.youtube.com/vi/mlrPDKcdkRE/0.jpg)](http://www.youtube.com/watch?v=mlrPDKcdkRE)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mlrPDKcdkRE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

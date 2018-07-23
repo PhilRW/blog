@@ -17,4 +17,4 @@ wordpress_id: 86370
 
 I like how having a favorite composer nowadays allows you to follow him/her more closely than would previously be possible.
 
-[embed]https://soundcloud.com/jasonrbrown/hope-jrb[/embed]
+https://soundcloud.com/jasonrbrown/hope-jrb

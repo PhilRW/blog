@@ -17,4 +17,4 @@ wordpress_id: 86509
 
 Whenever I reconcile my accounts to the penny after not doing it for a while...
 
-[embed]https://www.youtube.com/watch?v=FPQlXNH36mI[/embed]
+[!["I love it when a plan comes together."](http://img.youtube.com/vi/FPQlXNH36mI/0.jpg)](http://www.youtube.com/watch?v=FPQlXNH36mI)
