@@ -23,6 +23,8 @@ PygmentsOptions = "linenos=table"
 
 layoutsDir = "layouts"
 summaryLength = 89
+publishDir = "/keybase/private/philrw,kbpbot/blog.rosenberg-watt.com"
+
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en-us"           # Default language to use
