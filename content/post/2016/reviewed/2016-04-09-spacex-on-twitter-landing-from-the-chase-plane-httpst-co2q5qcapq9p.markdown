@@ -16,4 +16,5 @@ wordpress_id: 86009
 
 Friggin' awesome!
 
-[embed]https://twitter.com/SpaceX/status/718561436201431040[/embed]
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landing from the chase plane <a href="https://t.co/2Q5qCaPq9P">pic.twitter.com/2Q5qCaPq9P</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/718561436201431040?ref_src=twsrc%5Etfw">April 8, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

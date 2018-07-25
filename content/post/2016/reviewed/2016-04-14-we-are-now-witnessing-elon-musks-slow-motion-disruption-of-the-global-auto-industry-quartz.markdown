@@ -19,8 +19,7 @@ wordpress_id: 86013
 
 Says GM:
 
-
-<blockquote>our master plan hasn’t changed</blockquote>
+> our master plan hasn’t changed
 
 
 Source: _[We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry — Quartz](http://qz.com/656443/we-are-now-witnessing-elon-musks-slow-motion-disruption-of-the-global-auto-industry/)_

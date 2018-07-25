@@ -11,7 +11,7 @@ title: Lie, Steal and Stop Listening to NPR, Tracy Letts on How to Live a Creati
 wordpress_id: 85967
 ---
 
-<blockquote>The story you're telling me is almost certainly not interesting. And I have very little of interest I want to share with you, so let's lie about things.</blockquote>
+> The story you're telling me is almost certainly not interesting. And I have very little of interest I want to share with you, so let's lie about things.
 
 
-Source: _[Lie, Steal and Stop Listening to NPR, Tracy Letts on How to Live a Creative Life | Chicago Ideas Blog](http://blog.chicagoideas.com/speaker_showcase/lie-steal-and-stop-listening-to-npr-tracy-letts-on-how-to-live-a-creative-life/)_
+Source: *[Lie, Steal and Stop Listening to NPR, Tracy Letts on How to Live a Creative Life | Chicago Ideas Blog](http://blog.chicagoideas.com/speaker_showcase/lie-steal-and-stop-listening-to-npr-tracy-letts-on-how-to-live-a-creative-life/)*

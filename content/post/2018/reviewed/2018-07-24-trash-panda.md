@@ -10,6 +10,7 @@ tags:
 - animal
 - house
 - wildlife
+- youtube
 ---
 
 The Nest camera AI recognized it as a "person," otherwise it might have slipped by unnoticed.

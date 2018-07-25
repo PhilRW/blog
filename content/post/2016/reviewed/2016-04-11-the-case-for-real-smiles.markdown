@@ -16,8 +16,7 @@ wordpress_id: 86011
 
 I agree. Would I post it on my blog if I didn't?
 
-
-<blockquote>If people in the far future were to unearth troves of 20th and 21st-century photographs, the first thing they might ask is “Why are they always smiling?”</blockquote>
+> If people in the far future were to unearth troves of 20th and 21st-century photographs, the first thing they might ask is “Why are they always smiling?”
 
 
 Source: _[The Case For Real Smiles](http://www.raptitude.com/2016/04/real-smiles/)_
