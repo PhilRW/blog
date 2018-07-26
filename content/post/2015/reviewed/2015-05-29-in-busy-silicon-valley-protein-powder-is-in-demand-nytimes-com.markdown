@@ -15,8 +15,7 @@ wordpress_id: 85719
 
 Yep, I was on the waiting list for a good 6 months or so.
 
-
-<blockquote>Protein-packed drinkable meals come in powder form, are inexpensive, and are quick and easy to make so tech workers don’t actually have to eat.</blockquote>
+> Protein-packed drinkable meals come in powder form, are inexpensive, and are quick and easy to make so tech workers don’t actually have to eat.
 
 
 Source: _[In Busy Silicon Valley, Protein Powder Is in Demand - NYTimes.com](http://www.nytimes.com/2015/05/25/technology/in-busy-silicon-valley-protein-powder-is-in-demand.html)_

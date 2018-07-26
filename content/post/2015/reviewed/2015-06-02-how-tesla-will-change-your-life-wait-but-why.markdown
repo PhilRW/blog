@@ -21,8 +21,7 @@ wordpress_id: 85721
 
 Holy crap this is a long article. I skimmed it and it's amazing. Now I'm going to go back and spend a good portion of my day reading it....
 
-
-<blockquote>The story of how change really happens.</blockquote>
+> The story of how change really happens.
 
 
 Source: _[How Tesla Will Change Your Life | Wait But Why](http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)_

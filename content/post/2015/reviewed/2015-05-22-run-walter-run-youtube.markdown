@@ -18,4 +18,4 @@ wordpress_id: 85715
 
 Recorded with a GoPro camera.
 
-[embed]https://www.youtube.com/watch?v=UowkIRSDHfs[/embed]
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UowkIRSDHfs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
