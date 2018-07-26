@@ -16,11 +16,7 @@ wordpress_id: 85773
 
 This is a story about an issue that I currently face at work. Perhaps some of you have experienced a similar situation.<!--more-->
 
-
-
 * * *
-
-
 
 Imagine that you live in the arid desert of the American Southwest. You live in a house built of adobe. It’s a good house, sturdy, and it has lasted many centuries. Nobody builds houses out of adobe anymore, and occasionally a piece of wall falls off or a leak develops in the roof, but you can patch it because you know how to fix your adobe house: you’ve done it many times in the past.
 

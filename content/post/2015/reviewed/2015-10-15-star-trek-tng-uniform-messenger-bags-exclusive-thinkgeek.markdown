@@ -17,8 +17,7 @@ wordpress_id: 85788
 
 Sweet!
 
-
-<blockquote>These Star Trek TNG Uniform Messenger Bags feature the red, blue, and gold division colors of ST:TNG along with a metal combadge affixed to the exterior. The interior features a sweet ST:TNG-themed lining and padding all around.</blockquote>
+> These Star Trek TNG Uniform Messenger Bags feature the red, blue, and gold division colors of ST:TNG along with a metal combadge affixed to the exterior. The interior features a sweet ST:TNG-themed lining and padding all around.
 
 
 Source: _[Star Trek TNG Uniform Messenger Bags - Exclusive | ThinkGeek](http://www.thinkgeek.com/product/imkk/)_

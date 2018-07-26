@@ -28,19 +28,11 @@ I eventually moved off of Quicken to [something free](http://www.gnucash.org/), 
 
 This has been a long journey and it's not over -- not by a long shot. I've added complex formulas for automatically generating entries for loan repayments that include factors like interest rates and compounding. I'm also adding recurring payments with and without reminders and/or flagging for manual review, and basically exploring any and all functions that my financial management software give me. But the core principal remains the same: do not blindly accept what the bank tells you, because they may be wrong. I've caught them once or twice over the years. Objectively was the amount I recovered worth all of the hours I've put into mastering this system? No. But it's been fun, I've become intimately familiar with all aspects of my finances, and I have the opportunity for continuous process improvement. All things I enjoy.
 
-
-
 * * *
-
-
 
 P.S. I should mention that my process is very good at catching fraud. And since most -- if not all -- banks assign the responsibility for catching fraud to their customers, it's that much more important. Banks give us a limited time window to dispute the charge. I certainly can't go back a few months and say to them, "Hey -- wait a minute! When did I use my credit card at a vending machine and a Home Depot in Florida?" (Actual example, by the way.) It's part of my agreement with them that I have to stay vigilant. They will, of course, use their automatic fraud detection algorithms to do what they can, but they make no promises: the onus is on me. Anyway, I like my system, it makes sense to me, and it makes me happy. But I am not above improving it and, in fact, I continually seek out and evaluate different ways of doing things to see if they're better for me according to my guiding principals.
 
-
-
 * * *
-
-
 
 P.P.S. I'm aware it should really be called "Continual Reconciliation" but I'm borrowing/adapting an IT/software development term, "[Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration)." Perhaps the linguistically more correct definition/interpretation of "Continuous Reconciliation" is a longer-term technological goal. :)
 

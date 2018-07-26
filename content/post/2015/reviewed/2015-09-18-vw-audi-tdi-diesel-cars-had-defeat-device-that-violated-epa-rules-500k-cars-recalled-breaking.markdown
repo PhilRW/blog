@@ -16,4 +16,4 @@ wordpress_id: 85780
 
 Yikes, VW, that's absolutely horrible. Programming your cars to cheat emissions tests?! This definitely qualifies as _mens rea_! I hope the EPA throws the book at you.
 
-Source: _[VW, Audi TDI Diesel Cars Had 'Defeat Device' That Violated EPA Rules, 500K Cars Recalled: BREAKING](http://www.greencarreports.com/news/1100101_vw-audi-tdi-diesel-cars-had-defeat-device-that-violated-epa-rules-500k-cars-recalled-breaking)_
+Source: *[VW, Audi TDI Diesel Cars Had 'Defeat Device' That Violated EPA Rules, 500K Cars Recalled: BREAKING](http://www.greencarreports.com/news/1100101_vw-audi-tdi-diesel-cars-had-defeat-device-that-violated-epa-rules-500k-cars-recalled-breaking)*

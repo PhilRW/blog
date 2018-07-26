@@ -15,10 +15,9 @@ title: Google Contacts to Asterisk Phonebook | MrCaseyJames
 wordpress_id: 85792
 ---
 
-Here's another take on how to i[mport your Google contacts into Asterisk](https://blog.rosenberg-watt.com/2015/06/05/google-contacts-to-asterisk-phonebook-oauth-2-0-fix/) to use them for Caller ID. Very cool.
+Here's another take on how to [import your Google contacts into Asterisk](/2015/06/05/google-contacts-to-asterisk-phonebook-oauth-2-0-fix/) to use them for Caller ID. Very cool.
 
-
-<blockquote>The Project I wanted to have my Google Contacts be used to identify Caller ID for numbers coming into my Asterisk PBX. All the existing scripts I found were outdated and broken or required many hoo…</blockquote>
+> The Project I wanted to have my Google Contacts be used to identify Caller ID for numbers coming into my Asterisk PBX. All the existing scripts I found were outdated and broken or required many hoo…
 
 
 Source: _[Google Contacts to Asterisk Phonebook | MrCaseyJames](http://mrcaseyjames.com/?p=103)_

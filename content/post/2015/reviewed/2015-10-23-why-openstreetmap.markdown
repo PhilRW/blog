@@ -17,7 +17,7 @@ title: Why OpenStreetMap
 wordpress_id: 85927
 ---
 
-[![Screen Shot 2015-10-23 at 15.20.13](/images/Screen-Shot-2015-10-23-at-15.20.13--1024x647.png)](/images/screen-shot-2015-10-23-at-15-20-13.png)
+![comparison of four online maps](/images/Screen-Shot-2015-10-23-at-15.20.13-.png)
 
 [OpenStreetMap](http://www.openstreetmap.org) is in the upper left. Google, Bing, and MapQuest are all represented by comparison.
 

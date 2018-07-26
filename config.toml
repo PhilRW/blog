@@ -63,10 +63,6 @@ defaultContentLanguage = "en-us"           # Default language to use
   name = "About"
   weight = 50
   url = "/about"
-[[menu.main]]
-  name = "Contact"
-  weight = 60
-  url = "/contact"
 
 
 [params]
@@ -86,7 +82,7 @@ defaultContentLanguage = "en-us"           # Default language to use
 
   # paginate style, default use numbered pagination links
   # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
+  paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"

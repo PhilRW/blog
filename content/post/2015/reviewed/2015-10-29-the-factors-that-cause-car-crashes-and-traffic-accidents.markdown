@@ -19,8 +19,7 @@ wordpress_id: 85935
 
 This information is too interesting not to share, especially with Tesla rolling out the AutoPilot beta software to its cars.
 
-
-<blockquote>The Factors That Cause Car Crashes and Traffic Accidents. What Are The Causes Of Car Crashes and Traffic Accidents</blockquote>
+> The Factors That Cause Car Crashes and Traffic Accidents. What Are The Causes Of Car Crashes and Traffic Accidents
 
 
 Source: _[The Factors That Cause Car Crashes and Traffic Accidents](http://www.driving-test-success.com/causes-car-crash.htm)_

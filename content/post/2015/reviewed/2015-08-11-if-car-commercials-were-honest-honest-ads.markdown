@@ -17,4 +17,4 @@ wordpress_id: 85765
 
 Yep. This pretty much describes why I'm waiting to get a Tesla next.
 
-[embed]https://www.youtube.com/watch?v=gmQE4qdb9fg[/embed]
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gmQE4qdb9fg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
