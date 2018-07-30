@@ -17,6 +17,6 @@ wordpress_id: 40314
 
 Here's the answer for long trips or continuous driving: even faster than filling up a gas tank!
 
-[youtube https://www.youtube.com/watch?v=5b0T5NUHyxs?rel=0&showinfo=0&w;=560&h;=315]
+<iframe width="926" height="521" src="https://www.youtube.com/embed/5b0T5NUHyxs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 via [Better Place demonstrates battery swapping in Yokohama - YouTube](https://www.youtube.com/watch?v=5b0T5NUHyxs).

@@ -16,8 +16,8 @@ title: OK Go - Here It Goes Again - YouTube
 wordpress_id: 57613
 ---
 
-So I'm using my treadmill at work and these guys use treadmills for their job, too. :)
+So I'm using my treadmill at work and these guys use treadmills for their job, too. :slightly_smiling_face:
 
 via [OK Go - Here It Goes Again - YouTube](https://www.youtube.com/watch?v=dTAAsCNK7RA).
 
-[youtube https://www.youtube.com/watch?v=dTAAsCNK7RA?rel=0&showinfo=0]
+<iframe width="695" height="521" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: 'James Hansen: Why I must speak out about climate change | Video on TED.c
 wordpress_id: 28960
 ---
 
-[ted id=1380]
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/james_hansen_why_i_must_speak_out_about_climate_change" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 [James Hansen: Why I must speak out about climate change | Video on TED.com](http://www.ted.com/talks/james_hansen_why_i_must_speak_out_about_climate_change).
 

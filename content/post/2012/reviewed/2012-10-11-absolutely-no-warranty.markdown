@@ -15,4 +15,4 @@ wordpress_id: 55519
 
 Interesting that even though the console font got screwed up, the warranty message is still intelligible.
 
-[![](/images/IMG_14222-300x224.jpg)](/images/img_14222.jpg)
+![screen with garbled text and "ABSOLUTELY NO WARRANTY" legible](/images/IMG_14222.jpg)

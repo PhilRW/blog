@@ -14,6 +14,6 @@ wordpress_id: 26378
 
 Amen.
 
-[ted id=1377]
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/susan_cain_the_power_of_introverts" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 [Susan Cain: The power of introverts | Video on TED.com](http://www.ted.com/talks/susan_cain_the_power_of_introverts).

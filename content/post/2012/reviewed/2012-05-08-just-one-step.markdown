@@ -15,6 +15,6 @@ wordpress_id: 38265
 
 Look! I built a step! It's even level and everything.
 
-![](/images/Photo-May-08-7-57-161-e1336490996517-224x300.jpg)
+![step between door and garage floor](/images/Photo-May-08-7-57-161-e1336490996517.jpg)
 
 Oh yeah, I also put that door in, too. But I built the step last night.

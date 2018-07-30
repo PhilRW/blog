@@ -18,4 +18,4 @@ wordpress_id: 39262
 
 Um, I'm sorry... what?
 
-![](/images/hebrewcaptcha.jpg)
+![captcha with second word in Hebrew](/images/HebrewCaptcha.jpg)

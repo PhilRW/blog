@@ -26,10 +26,6 @@ To be honest, I would probably not buy a brand new EV. It would take even [bette
 
 Bring on the electric revolution!
 
-
-
 * * *
 
-
-
-* smackeroo (SMACK-uh-roo) _n_. The sound your money makes when an expensive purchase is also a foolish purchase.
+\* smackeroo (SMACK-uh-roo) _n_. The sound your money makes when an expensive purchase is also a foolish purchase.

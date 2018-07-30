@@ -19,4 +19,4 @@ wordpress_id: 30077
 
 I knew [SSDs](http://en.wikipedia.org/wiki/Solid-state_drive) were cool but this is not actually possible:
 
-[![120.47 GB, 133.7 GB free](/images/magical-ssd.jpg)](/images/magical-ssd.jpg)
+![120.47 GB, 133.7 GB free](/images/Magical-SSD.jpg)
