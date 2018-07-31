@@ -15,6 +15,6 @@ title: Floors! Floors! Floors!
 wordpress_id: 3793
 ---
 
-[![20111030-190632.jpg](/images/20111030-190632.jpg)](/images/20111030-190632.jpg)
+![living room laminate floor complete](/images/20111030-190632.jpg)
 
 Finally... the living room is DONE!

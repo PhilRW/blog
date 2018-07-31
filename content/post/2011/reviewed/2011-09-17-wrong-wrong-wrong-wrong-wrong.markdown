@@ -19,6 +19,4 @@ wordpress_id: 3581
 
 This was just too good (bad) not to post. I really wouldn't want someone like this to be responsible for printing anything in English on any item I would wear, post, hang, or display in any fashion. How many errant apostrphe's (sic) do you see?
 
-
-
-[![](/images/img_0846.jpg)](/images/img_0846.jpg)
+![homemade rear window vehicle sign with incorrect grammar](/images/IMG_0846.jpg)

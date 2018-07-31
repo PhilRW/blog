@@ -12,4 +12,4 @@ title: Creepy Sign at Ikea
 wordpress_id: 3552
 ---
 
-[![20110903-114339.jpg](/images/20110903-114339.jpg)](/images/20110903-114339.jpg)
+![four identical stacked baby heads](/images/20110903-114339.jpg)

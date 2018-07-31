@@ -15,7 +15,7 @@ title: Osophy on Greatness (Borrowed)
 wordpress_id: 3624
 ---
 
-<blockquote>...People who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent.</blockquote>
+> ...People who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent.
 
 
 via [Great Hackers](http://www.paulgraham.com/gh.html).

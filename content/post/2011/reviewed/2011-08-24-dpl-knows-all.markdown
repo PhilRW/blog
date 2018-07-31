@@ -18,4 +18,4 @@ wordpress_id: 3500
 
 This is rather disturbing. Apparently the Denver Public Library knows my expiration date! I'm going to live to be 112 years old, at which point, I assume, they will revoke my library card.
 
-[![](/images/dpl_expiration_date.jpg)](/images/dpl_expiration_date.jpg)
+![Expiration date: 12/31/2092](/images/dpl_expiration_date.jpg)

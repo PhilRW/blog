@@ -10,7 +10,6 @@ title: Osophy on Learning, Braveness of (Borrowed)
 wordpress_id: 3455
 ---
 
-<blockquote>Measured bravery is the prime gateway to technical expertise.</blockquote>
-
-
--- [Robert Faludi](http://shop.oreilly.com/product/9780596807740.do)
+> Measured bravery is the prime gateway to technical expertise.
+>
+> <cite>[Robert Faludi](http://shop.oreilly.com/product/9780596807740.do)</cite>

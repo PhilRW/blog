@@ -18,6 +18,8 @@ wordpress_id: 4527
 
 And in other news, content producers still haven't paid attention in high school English class.
 
-[caption id="attachment_4529" align="alignnone" width="319"][![Owner Of Stolen Bike, Reclaims It On 'Test Ride'](/images/another-unnecessary-comma.jpg)](/images/another-unnecessary-comma.jpg) two unrelated and incomplete phrases[/caption]
+![Owner Of Stolen Bike, Reclaims It On 'Test Ride'](/images/another-unnecessary-comma.jpg)]
+
+*two unrelated and incomplete phrases*
 
 [Owner Of Stolen Bike, Reclaims It On 'Test Ride' - Denver News Story - KMGH Denver](http://www.thedenverchannel.com/news/boulder-woman-steals-stolen-bike-back).

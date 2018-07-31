@@ -1,6 +1,6 @@
 ---
 title: "The Cost of Quiet"
-date: 2018-08-01T08:00:00-06:00
+date: 2018-07-31T08:00:00-06:00
 draft: false
 categories:
 - Miscellaneous

@@ -15,4 +15,4 @@ title: No Content Found
 wordpress_id: 3596
 ---
 
-[![20110930-130954.jpg](/images/20110930-130954.jpg)](/images/20110930-130954.jpg)
+![bedroom floor laminate](/images/20110930-130954.jpg)
