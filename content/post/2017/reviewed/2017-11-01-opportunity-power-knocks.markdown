@@ -28,4 +28,6 @@ I wanted to do it up right, so I split the circuit into two outlets, activated b
 
 And, of course, they must be outlets of a different color. I would have gone with green if they made them.
 
-[gallery ids="87111,87104,87105" type="rectangular"]
+![interior SPS switch and outlet](/images/img_20171101_075127.jpg)
+
+![exterior SPS switch and outlet](/images/img_20171101_075235.jpg)
