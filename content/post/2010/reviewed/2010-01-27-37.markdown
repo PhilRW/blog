@@ -1,0 +1,17 @@
+---
+author: philrw
+categories:
+- Personal
+comments: true
+date: "2010-01-27T20:48:15Z"
+link: https://philrw.wordpress.com/2010/01/27/37/
+post_format:
+- Quote
+slug: "37"
+tags:
+- job search
+title: :(
+wordpress_id: 37
+---
+
+> Thank you for your interest in (business name obscured). Unfortunately, this position has been filled internally.  Best of luck in your job search.

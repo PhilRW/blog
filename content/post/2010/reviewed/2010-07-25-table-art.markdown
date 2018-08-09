@@ -1,0 +1,25 @@
+---
+author: philrw
+categories:
+- Personal
+comments: true
+date: "2010-07-25T17:18:30Z"
+link: https://philrw.wordpress.com/2010/07/25/table-art/
+post_format:
+- Gallery
+slug: table-art
+tags:
+- crayon
+- drawing
+- interstate kitchen &amp; bar
+title: Table Art
+wordpress_id: 986
+---
+
+From the Interstate Kitchen & Bar last night. I drew the Purple People Eater and Jack-o'-lantern, K drew the bird.
+
+![flying purple people eater](/images/IMG_0221.jpg)
+
+![Haloween pumpkin](/images/IMG_0223.jpg)
+
+![bird](/images/IMG_0224.jpg)

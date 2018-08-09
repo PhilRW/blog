@@ -1,0 +1,19 @@
+---
+author: philrw
+categories:
+- Personal
+comments: true
+date: "2010-12-17T18:04:18Z"
+link: https://philrw.wordpress.com/2010/12/17/bad-dog/
+post_format:
+- Video
+slug: bad-dog
+tags:
+- dog
+title: Bad Dog
+wordpress_id: 2976
+---
+
+Don't let your dog do this:
+
+<iframe width="816" height="612" src="https://www.youtube.com/embed/YsC8y4Jj8IU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
