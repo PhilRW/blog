@@ -15,11 +15,8 @@ I spent the entire day volunteering as ham radio comm for the 20th LA Marathon. 
 
 After the first of the runners came in (you might have seen me on TV at the finish line, I was the guy in the bright orange hat and the goofy radio headphones following around a guy in a yellow jacket), I headed up to the CP (Command Post) where I proceeded to track the LAPD unit as it drove behind the sweeper vehicles at the end of the marathon. The sarge made it back to the finish line after 18:00 and I took back my tracker and hit the road. All-in-all a productive, fun in a weird why-am-I-volunteering-but-it’s-fun-anyway sorta way. My only complaint is getting up at 3 am, but at least I’ll sleep well tonight.
 
-[![](/images/Photo_030605_006-300x225.jpg)](/images/photo_030605_006.jpg)
-The Greatest
+![The Greatest](/images/Photo_030605_006.jpg)
 
-[![](/images/Photo_030605_008-300x225.jpg)](/images/photo_030605_008.jpg)
-The finish line
+![The finish line](/images/Photo_030605_008.jpg)
 
-[![](/images/Photo_030605_010-300x225.jpg)](/images/photo_030605_010.jpg)
-The CP
+![The CP](/images/Photo_030605_010.jpg)

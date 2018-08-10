@@ -20,4 +20,4 @@ I don’t know. All I know is I need a new cell phone and Steve may pull a rabbi
 
 <!--more-->
 
-What I really think for the near-term future is that Motorola and Apple will work together on a phone or two. I suspect the V635 will have a mobile version of iTunes on it. Hopefully Apple will update its iSync software with Tiger supporting oodles of more phones. Then us happy GSM subscribers will pick and choose what device to converge with our digital lives. My T637 is good and all, but I want a phone I can read outdoors. :P
+What I really think for the near-term future is that Motorola and Apple will work together on a phone or two. I suspect the V635 will have a mobile version of iTunes on it. Hopefully Apple will update its iSync software with Tiger supporting oodles of more phones. Then us happy GSM subscribers will pick and choose what device to converge with our digital lives. My T637 is good and all, but I want a phone I can read outdoors. :stuck_out_tongue:

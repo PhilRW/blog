@@ -11,7 +11,3 @@ wordpress_id: 397
 ---
 
 All films are shot in exactly the same way: the only way the director knows how.
-
-
-
-

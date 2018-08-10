@@ -11,7 +11,3 @@ wordpress_id: 329
 ---
 
 That is all. Oh yes, avoid shopping areas tomorrow unless they’re online.
-
-
-
-

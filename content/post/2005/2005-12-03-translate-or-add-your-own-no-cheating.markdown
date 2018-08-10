@@ -10,14 +10,14 @@ title: Translate or Add Your Own, no cheating
 wordpress_id: 328
 ---
 
-deus ex machina
-e plurubus unum
-post hoc, ergo propter hoc
-cum hoc, ergo propter hoc
-cogito, ergo sum
-quid pro quo
-et tu, Brute?
-ex post facto
-semper fidelis
-summa cum laude
+deus ex machina  
+e plurubus unum  
+post hoc, ergo propter hoc  
+cum hoc, ergo propter hoc  
+cogito, ergo sum  
+quid pro quo  
+et tu, Brute?  
+ex post facto  
+semper fidelis  
+summa cum laude  
 ad hoc

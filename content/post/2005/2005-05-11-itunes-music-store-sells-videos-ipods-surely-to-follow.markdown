@@ -13,18 +13,6 @@ title: iTunes Music Store sells Videos, iPods Surely to Follow
 wordpress_id: 348
 ---
 
-Did I call that one or what? iTunes 4.8 now supports video. You can
-buy music videos and such stuff now on the iTunes Music Store. Mark my
-words: video playback support will soon follow on iPods. Probably the
-iPod Video or something like that. Perhaps the iPod Photo will get a
-firmware upgrade to allow video playback to an external monitor or to
-the internal screen & headphone jack.
-
-
-
+Did I call that one or what? iTunes 4.8 now supports video. You can buy music videos and such stuff now on the iTunes Music Store. Mark my words: video playback support will soon follow on iPods. Probably the iPod Video or something like that. Perhaps the iPod Photo will get a firmware upgrade to allow video playback to an external monitor or to the internal screen & headphone jack.
 
 The future is bright for digital filmmakers/content providers.
-
-
-
-

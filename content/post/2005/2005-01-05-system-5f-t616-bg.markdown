@@ -14,8 +14,6 @@ title: System 5F T616 BG
 wordpress_id: 411
 ---
 
-I thought I’d make this Sony Ericsson-suitable background jpeg
-available to all you cool cats out there who want a close up of the
-Euphonix System 5F on your mobile. Took it myself. Enjoy.
+I thought I’d make this Sony Ericsson-suitable background jpeg available to all you cool cats out there who want a close up of the Euphonix System 5F on your mobile. Took it myself. Enjoy.
 
-[![](/images/euphonix_2.jpg)](/images/euphonix_2.jpg)
+![](/images/euphonix_2.jpg)

@@ -11,11 +11,4 @@ title: The Ring Weirdness
 wordpress_id: 452
 ---
 
-I just finished watching _The Ring_ for the first time. I had to
-laugh because during the credits my telephone rang! I have to admit I
-was a little hesitant to answer the phone. It was some guy wanting
-Sergio. Wrong number.
-
-
-
-
+I just finished watching _The Ring_ for the first time. I had to laugh because during the credits my telephone rang! I have to admit I was a little hesitant to answer the phone. It was some guy wanting Sergio. Wrong number.

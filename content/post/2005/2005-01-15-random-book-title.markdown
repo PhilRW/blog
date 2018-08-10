@@ -12,4 +12,4 @@ wordpress_id: 403
 
 I had a thought that made me laugh the other day on the road, the idea for a title of a (joke) children’s educational book: _Elephants Are People, Too!_
 
-Don’t ask me why, my neurons just fired in a strange pattern that day. :)
+Don’t ask me why, my neurons just fired in a strange pattern that day. :slightly_smiling_face:

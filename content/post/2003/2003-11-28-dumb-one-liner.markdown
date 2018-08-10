@@ -11,7 +11,3 @@ wordpress_id: 440
 ---
 
 Second-rate toilet paper: something about it just rubs me the wrong way.
-
-
-
-

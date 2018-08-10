@@ -11,7 +11,3 @@ wordpress_id: 385
 ---
 
 You can’t be anyone other than who you are, so don’t even try. Actors exempted.
-
-
-
-

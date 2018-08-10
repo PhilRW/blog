@@ -11,7 +11,3 @@ wordpress_id: 407
 ---
 
 That which upon seeking one does not find, yet in time reveals itself of its own accord.
-
-
-
-

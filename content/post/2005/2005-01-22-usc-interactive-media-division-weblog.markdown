@@ -16,4 +16,4 @@ wordpress_id: 393
 
 [http://interactive.usc.edu/](http://interactive.usc.edu/)
 
-Check out this TellBush.org thing. Eeeeenteresting.... Hey, I never said USC Cinema-Television was a Republican school—our admissions standards usually don’t allow it. :)
+Check out this TellBush.org thing. Eeeeenteresting.... Hey, I never said USC Cinema-Television was a Republican school—our admissions standards usually don’t allow it. :slightly_smiling_face:

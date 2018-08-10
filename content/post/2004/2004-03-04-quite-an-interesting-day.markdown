@@ -10,4 +10,4 @@ title: Quite an Interesting Day
 wordpress_id: 432
 ---
 
-I encountered the Presidential motorcade twice today. Once at about 1700 and the next at roughly 1830. Both on the same street, Adams. Once going to the Shrine—apparently for a fundraiser—and another leaving it. That Bush fellow shure creates one heck of a mess wherever he goes. There were several hundred protesters there tonight. What were they protesting? Who knows. Maybe the traffic jam he creates whenever he goes somewhere. :) Sheesh.
+I encountered the Presidential motorcade twice today. Once at about 1700 and the next at roughly 1830. Both on the same street, Adams. Once going to the Shrine—apparently for a fundraiser—and another leaving it. That Bush fellow shure creates one heck of a mess wherever he goes. There were several hundred protesters there tonight. What were they protesting? Who knows. Maybe the traffic jam he creates whenever he goes somewhere. :slightly_smiling_face: Sheesh.

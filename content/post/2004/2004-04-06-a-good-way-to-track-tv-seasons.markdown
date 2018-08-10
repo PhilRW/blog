@@ -10,4 +10,4 @@ title: A Good Way to Track TV Seasons
 wordpress_id: 424
 ---
 
-I just had a funny thought: don’t know how far we are along in the TV season? Just count the number of contestants left on a reality series commercial. That’s how many weeks there are left in the season. :)
+I just had a funny thought: don’t know how far we are along in the TV season? Just count the number of contestants left on a reality series commercial. That’s how many weeks there are left in the season. :slightly_smiling_face:

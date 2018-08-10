@@ -13,10 +13,4 @@ wordpress_id: 404
 “No time to do it right, plenty of time to do it over.”
 
 
-
-
 (I didn’t come up with this one; Don’t let this happen to your production!)
-
-
-
-

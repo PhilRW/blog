@@ -11,7 +11,3 @@ wordpress_id: 327
 ---
 
 Do not mistake composure for ease.
-
-
-
-

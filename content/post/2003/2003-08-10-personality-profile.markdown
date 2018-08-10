@@ -14,4 +14,4 @@ title: Personality Profile
 wordpress_id: 457
 ---
 
-Here’s my [personality profile](http://www.typelogic.com/intj.html). Use with caution. :)
+Here’s my [personality profile](http://www.typelogic.com/intj.html). Use with caution. :slightly_smiling_face:

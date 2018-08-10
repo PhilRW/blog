@@ -11,7 +11,3 @@ wordpress_id: 345
 ---
 
 _It’s so quiet, you can hear the pain in the air._
-
-
-
-

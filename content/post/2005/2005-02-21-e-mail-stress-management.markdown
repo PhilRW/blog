@@ -11,7 +11,7 @@ title: '[e-mail] Stress Management'
 wordpress_id: 753
 ---
 
-[u]Stress Management for the New Year [/u]
+<u>Stress Management for the New Year</u>
 
 A lecturer, when explaining stress management to an audience, raised a glass of water and asked, "how heavy is this glass of water?"
 

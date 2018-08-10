@@ -11,7 +11,3 @@ wordpress_id: 383
 ---
 
 Life’s too short to worry about everything. In fact, it might just be too short to worry about _anything_.
-
-
-
-

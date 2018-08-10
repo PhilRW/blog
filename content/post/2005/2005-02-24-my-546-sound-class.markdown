@@ -16,5 +16,6 @@ wordpress_id: 366
 
 Hard at work, attentive, focused, disciplined, and committed. Heh. Yeah, right.
 
-[![](/images/Photo_022305_002-300x225.jpg)](/images/photo_022305_002.jpg)
+![](/images/Photo_022305_002.jpg)
+
 From left to right: J, M, R, M, M, Z, B, and A.

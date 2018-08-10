@@ -11,7 +11,3 @@ wordpress_id: 335
 ---
 
 You can’t have everything. And even if you could, where would you keep all of it?
-
-
-
-

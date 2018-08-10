@@ -18,4 +18,4 @@ I got an autograph from Doobie Chae, one of my 546 Sound students. At
 least, I think it’s his signature. He told me it is, but it could be a
 swear word for all I know.
 
-[![](/images/Doobie-300x200.gif)](/images/doobie.gif)
+![](/images/Doobie.gif)

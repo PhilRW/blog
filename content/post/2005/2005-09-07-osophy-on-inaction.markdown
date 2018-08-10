@@ -13,10 +13,4 @@ wordpress_id: 333
 Inaction is easier than action.
 
 
-
-
 To paraphrase Edmund Burke, Evil is what happens when good people do nothing.
-
-
-
-

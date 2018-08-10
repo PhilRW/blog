@@ -13,8 +13,6 @@ title: 'Green Car Congress: Blue Sun Plans to Open 10 New Biodiesel Stations on 
 wordpress_id: 341
 ---
 
-Colorado, specifically a company in Colorado by the name of Blue Sun,
-seems to be leading the way in biodiesel production and—just as
-importantly—distribution in the form of public fueling stations.
+Colorado, specifically a company in Colorado by the name of Blue Sun, seems to be leading the way in biodiesel production and—just as importantly—distribution in the form of public fueling stations.
 
 [http://www.greencarcongress.com/2005/05/blue_sun_plans_.html](http://www.greencarcongress.com/2005/05/blue_sun_plans_.html)

@@ -12,7 +12,3 @@ wordpress_id: 427
 ---
 
 Watch for the new BMW X3 commercial. You tell me. **How do they do it?** I want to know.
-
-
-
-

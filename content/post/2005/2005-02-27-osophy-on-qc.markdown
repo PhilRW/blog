@@ -11,7 +11,3 @@ wordpress_id: 365
 ---
 
 Always do your best work—you never know when or if you will work on it again.
-
-
-
-

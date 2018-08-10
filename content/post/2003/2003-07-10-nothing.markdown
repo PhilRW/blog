@@ -11,4 +11,4 @@ title: Nothing
 wordpress_id: 724
 ---
 
-This is my first entry after setting up my website. I hope you like it. :)
+This is my first entry after setting up my website. I hope you like it. :slightly_smiling_face:

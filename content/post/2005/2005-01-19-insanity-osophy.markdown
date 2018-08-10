@@ -11,7 +11,3 @@ wordpress_id: 396
 ---
 
 A definition of insanity: Doing the same thing over and over again and expecting a different result.
-
-
-
-

@@ -11,7 +11,3 @@ wordpress_id: 394
 ---
 
 “You’re never a fly on the wall, you’re always a fly in the soup.”
-
-
-
-

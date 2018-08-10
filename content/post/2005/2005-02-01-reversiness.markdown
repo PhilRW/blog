@@ -11,7 +11,3 @@ wordpress_id: 376
 ---
 
 “embargo” spelled backwards
-
-
-
-

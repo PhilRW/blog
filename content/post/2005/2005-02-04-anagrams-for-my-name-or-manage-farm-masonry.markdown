@@ -10,8 +10,8 @@ title: “Anagrams for My Name,” or “Manage Farm Masonry”
 wordpress_id: 374
 ---
 
-These are my anagram names in two words. They’re all I. :)
+These are my anagram names in two words. They’re all I. :slightly_smiling_face:
 
-WEATHERSTRIPPING LOB
-HEARTSTRING BLOWPIPE
+WEATHERSTRIPPING LOB  
+HEARTSTRING BLOWPIPE  
 WIRETAPPING BROTHELS

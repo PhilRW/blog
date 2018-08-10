@@ -11,11 +11,4 @@ title: Loony TV Commercial
 wordpress_id: 434
 ---
 
-Okay, and excuse me if I’m blunt, but **what the _hell_ is up with those freaky animated rodents on Quiznos commercials?**
-It looks like something out of a poorly implemented underground flash
-animation webring. Okay, there, I’ve said it. I’ve gotten it off my
-chest and I feel better now. _Your_ thoughts on these freaky rodent things?
-
-
-
-
+Okay, and excuse me if I’m blunt, but **what the _hell_ is up with those freaky animated rodents on Quiznos commercials?** It looks like something out of a poorly implemented underground flash animation webring. Okay, there, I’ve said it. I’ve gotten it off my chest and I feel better now. _Your_ thoughts on these freaky rodent things?

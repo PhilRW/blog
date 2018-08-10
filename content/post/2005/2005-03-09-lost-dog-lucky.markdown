@@ -15,4 +15,4 @@ title: 'Lost Dog: "Lucky"'
 wordpress_id: 783
 ---
 
-[![](/images/lucky-189x300.jpg)](/images/lucky.jpg)
+![](/images/lucky.jpg)

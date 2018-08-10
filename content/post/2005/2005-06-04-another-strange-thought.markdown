@@ -11,7 +11,3 @@ wordpress_id: 343
 ---
 
 Can you ever feel fate pass you over?
-
-
-
-

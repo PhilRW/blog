@@ -10,12 +10,4 @@ title: Fate, it seems, is not without a sense of irony....
 wordpress_id: 430
 ---
 
-The Returning Resident Renewal program here at USC (sounds like some
-kind of recycling program) is as convoluted and bureaucratic as anything
-else the university has to offer. I was hoping for a better (subjective
-term around here) apartment next year. I ended up signing a contract
-for the _exact same room_ that I have now. But hope is not lost—the reassignment procedure begins on the 31st. Bully!
-
-
-
-
+The Returning Resident Renewal program here at USC (sounds like some kind of recycling program) is as convoluted and bureaucratic as anything else the university has to offer. I was hoping for a better (subjective term around here) apartment next year. I ended up signing a contract for the _exact same room_ that I have now. But hope is not lost—the reassignment procedure begins on the 31st. Bully!

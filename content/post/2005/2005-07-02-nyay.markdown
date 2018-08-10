@@ -10,11 +10,4 @@ title: N/Yay
 wordpress_id: 339
 ---
 
-In my experience there are the naysayers and the yaysayers. The
-naysayers say everything couldn’t be worse whereas the yaysayers say
-everything couldn’t be better. The trick is to be a little bit of both
-and not too much of either.
-
-
-
-
+In my experience there are the naysayers and the yaysayers. The naysayers say everything couldn’t be worse whereas the yaysayers say everything couldn’t be better. The trick is to be a little bit of both and not too much of either.

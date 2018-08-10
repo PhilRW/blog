@@ -11,7 +11,3 @@ wordpress_id: 332
 ---
 
 When life hands you lemons, make some apple juice.
-
-
-
-

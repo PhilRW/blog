@@ -11,11 +11,4 @@ title: Only in my part of town...
 wordpress_id: 439
 ---
 
-...can you hear a tire screech, metal/glass cunching/shattering, and
-then more squealing as an engine revs and fades away, only to rush
-outside to find no sign of an accident besides the sound of debris on
-the road as passing cars drive over it.
-
-
-
-
+...can you hear a tire screech, metal/glass cunching/shattering, and then more squealing as an engine revs and fades away, only to rush outside to find no sign of an accident besides the sound of debris on the road as passing cars drive over it.

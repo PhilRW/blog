@@ -13,10 +13,4 @@ wordpress_id: 387
 From Chris Jenkins: “Technology should be your mistress.”
 
 
-
-
 (then I think: “Oh, but she _is_....”)
-
-
-
-
