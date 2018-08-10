@@ -1,0 +1,17 @@
+---
+author: philrw
+categories:
+- Personal
+comments: true
+date: "2007-12-19T14:55:01Z"
+link: https://philrw.wordpress.com/2007/12/19/video-blog-2/
+post_format:
+- Video
+slug: video-blog-2
+title: 'Video Blog #2'
+wordpress_id: 142
+---
+
+[![](/images/071219vlog-poster.jpg)](/images/071219vlog-desktop.m4v)
+
+<iframe width="660" height="495" src="https://www.youtube.com/embed/0PW9tk6EbSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
