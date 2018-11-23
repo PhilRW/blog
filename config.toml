@@ -142,7 +142,7 @@ defaultContentLanguage = "en-us"           # Default language to use
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-keybase = "https://keybase.io/philrw"
+#    a-keybase = "https://keybase.io/philrw"
 #    a-email = "mailto:philip@rosenberg-watt.com"
 #    b-stack-overflow = "http://localhost:1313"
     c-twitter = "https://twitter.com/PhilRWatt"
