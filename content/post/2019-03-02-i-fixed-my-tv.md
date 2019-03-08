@@ -12,7 +12,7 @@ tags:
 - frugal
 ---
 
-I fixed our 8-year old TV. It turned on and it had sound but no picture. I replaced something called the T-Con board and it worked again! The part cost \$85 USD and I was fortunate enough to find it locally. Otherwise it would have been a \$1000 trip to Costco and tossing a 60-inch screen in the recycling bin. :frowning:
+I fixed our 8-year old TV. It turned on and it had sound but no picture. I replaced something called the T-Con board and it worked again! The part cost $85 USD and I was fortunate enough to find it locally. Otherwise it would have been a $1000 trip to Costco and tossing a 60-inch screen in the recycling bin. :frowning:
 
 <!--more-->
 
