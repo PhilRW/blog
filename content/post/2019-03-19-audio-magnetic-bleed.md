@@ -6,6 +6,9 @@ categories:
 - Film/TV/Theater
 - Tech
 tags:
+- technology
+- magnetic
+- tape
 - technical
 - audio
 - sound
