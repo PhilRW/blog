@@ -37,6 +37,8 @@ I decided to communicate with them through Reddit. Their customer service team i
 * Mar 19: "Looks like the financial team approved the order and now we're waiting on permits."
 * Apr 4: "I touched base with our local partners this morning and they confirmed that permits are approved, locates have been called in, and they're moving towards scheduling a bore."
 
+For reference, the name of the Comcast's service offering is called Gigabit Pro and it will cost $1000 to install + $300/month for 2Gbps symmetric service + $20/month equipment rental. I was paying $200/month for DOCSIS 3.1 with 1Gbps/35Mbps down/up. Upstream will be at least 57x faster on fiber.
+
 # Ext. Street - A Boring Situation
 
 On April 15, "no parking" signs were set up on my block. Around noon a utility locator crew showed up at my door and wanted to get a head start on marking the sewer line. We rescheduled for the next morning since I was at work. I learned from them that the bore was scheduled for the next day.
