@@ -75,4 +75,6 @@ And, after another crew came on the 17th to connect the conduit and pull the fib
 
 ![a few inches of conduit stick up above ground next to siding](/images/IMG_20190417_123627876_HDR.jpg)
 
+By early afternoon on the 17th, all the traffic signs and cones were gone and the exterior contractors had finished. It was now up to Comcast.
+
 # Int. Basement - (witty title here)
