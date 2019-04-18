@@ -77,4 +77,10 @@ And, after another crew came on the 17th to connect the conduit and pull the fib
 
 By early afternoon on the 17th, all the traffic signs and cones were gone and the exterior contractors had finished. It was now up to Comcast.
 
+----
+
+Then around noon on the 18th, Comcast said, "The project manager let us know that the bore permit is in, design is done, and they're now waiting on the equipment to arrive. He's not sure when it will arrive however he'll keep us posted."
+
+:man_facepalming:
+
 # Int. Basement - (witty title here)
