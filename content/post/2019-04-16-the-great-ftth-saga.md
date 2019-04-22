@@ -22,7 +22,7 @@ Previously every time I contacted Comcast, they said that my house was within ra
 
 Then I would fail whatever internal criteria Comcast had for running fiber to my home. The last time they said something about my house being too far from the nearest servicable node.
 
-But in the interim something changed. I believe it was due to the fact that Comcast upgraded my area to N+0. topology That basically means they get rid of all the amps in the area and put nodes out as far as possible (where the amps used to be). To do this, they needed to run fiber to the existing amps and replace them with nodes. After that happened — this time around I was approved.
+But in the interim something changed. I believe it was due to the fact that Comcast upgraded my area to N+0 topology. That basically means they get rid of all the amps in the area and put nodes out as far as possible (where the amps used to be). To do this, they needed to run fiber to the existing amps and replace them with nodes. After that happened — this time around I was approved.
 
 I decided to communicate with them through Reddit. Their customer service team is generally pretty responsive on that platform. They started the process as usual and over the course of many weeks, little bits of information trickled in. Here's a timeline:
 
@@ -41,7 +41,7 @@ For reference, the name of the Comcast's service offering is called Gigabit Pro 
 
 # Ext. Street - A Boring Situation
 
-On April 15, "no parking" signs were set up on my block. Around noon a utility locator crew showed up at my door and wanted to get a head start on marking the sewer line. We rescheduled for the next morning since I was at work. I learned from them that the bore was scheduled for the next day.
+On April 15, "no parking" signs were set up on my block. Around noon a utility locator crew showed up at my door and wanted to get a head start on marking the sewer line. We rescheduled for the next morning since I was at work at the time. I learned from them that the bore was scheduled for the next day.
 
 ![ROAD WORK AHEAD: an empty street with yellow cones on either side](/images/IMG_20190415_153642995.jpg)
 
@@ -75,6 +75,8 @@ And, after another crew came on the 17th to connect the conduit and pull the fib
 
 ![a few inches of conduit stick up above ground next to siding](/images/IMG_20190417_123627876_HDR.jpg)
 
+Ignore that hole in the siding. I'll fix that.
+
 By early afternoon on the 17th, all the traffic signs and cones were gone and the exterior contractors had finished. It was now up to Comcast.
 
 ----
@@ -83,4 +85,6 @@ Then around noon on the 18th, Comcast said, "The project manager let us know tha
 
 :man_facepalming:
 
-# Int. Basement - (witty title here)
+# Int. Basement - Hanging (by) a Strand
+
+The morning of Monday the 22nd, the interior contractor called me to set up the install for the morning of Wednesday the 24th.
