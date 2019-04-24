@@ -88,3 +88,18 @@ Then around noon on the 18th, Comcast said, "The project manager let us know tha
 # Int. Basement - Hanging (by) a Strand
 
 The morning of Monday the 22nd, the interior contractor called me to set up the install for the morning of Wednesday the 24th.
+
+At 10 a.m. the contractor showed up to run the interior fiber. It took them a few hours to run the interior conduit and pull fiber from the server rack out to the vault near the pole.
+
+![two trucks](/images/IMG_20190424_124349924_HDR.jpg)
+
+![assembling the outside fiber entry point](/images/IMG_20190424_105523297.jpg)
+
+![assembled fiber entry point](/images/IMG_20190424_124221080_HDR.jpg)
+
+![the orange conduit holds the yellow fiber](/images/IMG_20190424_124630999.jpg)
+
+![interior of rack mount fiber patch panel](/images/IMG_20190424_124742031.jpg)
+
+Next, the fiber splicers.
+
