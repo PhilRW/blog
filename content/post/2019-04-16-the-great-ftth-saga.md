@@ -85,7 +85,7 @@ Then around noon on the 18th, Comcast said, "The project manager let us know tha
 
 :man_facepalming:
 
-# Int. Basement - Hanging (by) a Strand
+# Int. Basement - Yes We Conduit
 
 The morning of Monday the 22nd, the interior contractor called me to set up the install for the morning of Wednesday the 24th.
 
@@ -101,5 +101,5 @@ At 10 a.m. the contractor showed up to run the interior fiber. It took them a fe
 
 ![interior of rack mount fiber patch panel](/images/IMG_20190424_124742031.jpg)
 
-Next, the fiber splicers.
+They indicated that the fiber splicer(s) would potentially show up later that week or early the next.
 
