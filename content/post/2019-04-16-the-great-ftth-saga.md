@@ -101,5 +101,11 @@ At 10 a.m. the contractor showed up to run the interior fiber. It took them a fe
 
 ![interior of rack mount fiber patch panel](/images/IMG_20190424_124742031.jpg)
 
-They indicated that the fiber splicer(s) would potentially show up later that week or early the next.
+They indicated that the fiber splicer(s) would potentially show up later that week or early the next…
+
+...and they were right. Upon approaching my home at 16:00 on Tuesday the 30th, I saw two vans outside my house.
+
+![two vans parked on the street](/images/IMG_20190430_160156882_HDR.jpg)
+
+The splicers took about an hour to test everything and they informed me that they tested about 39,000 feet of fiber back to the headend. They told me to call Comcast and get them to hook me up. :sunglasses:
 
