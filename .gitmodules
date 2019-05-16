@@ -3,7 +3,7 @@
 	url = https://github.com/spf13/herring-cove.git
 [submodule "themes/jane"]
 	path = themes/jane
-	url = https://github.com/xianmin/hugo-theme-jane.git
+	url = https://github.com/PhilRW/hugo-theme-jane.git
 [submodule "themes/whiteplain"]
 	path = themes/whiteplain
 	url = https://github.com/taikii/whiteplain.git
