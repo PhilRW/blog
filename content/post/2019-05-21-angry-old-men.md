@@ -24,8 +24,6 @@ This song came to me today and I had to write it down.
 
 ![page 3](/images/Angry_Old_Men-3.png)
 
-![page 4](/images/Angry_Old_Men-4.png)
-
 ----
 
 P.S. [MuseScore](https://musescore.org/) is great.
