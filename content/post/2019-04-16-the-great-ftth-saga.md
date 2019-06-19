@@ -27,15 +27,42 @@ But in the interim something changed. I believe it was due to the fact that Comc
 I decided to communicate with them through Reddit. Their customer service team is generally pretty responsive on that platform. They started the process as usual and over the course of many weeks, little bits of information trickled in. Here's a timeline:
 
 * Jan 26: Initial inquiry.
-* Feb 3: "I'm in the process of reaching out to our local leadership now to have them see what can be done about bringing Gigabit Pro service to the area."
-* Feb 7: "...you do qualify for Gigabit Pro at this time. However, we're working on surveying the area to see what needs to be done to install it." (I've heard this before.)
+
+* Feb 3: 
+  
+  > I'm in the process of reaching out to our local leadership now to have them see what can be done about bringing Gigabit Pro service to the area.
+  
+* Feb 7:
+
+  > "...you do qualify for Gigabit Pro at this time. However, we're working on surveying the area to see what needs to be done to install it.
+
+  (I've heard this before.)
+
 * Feb 11: Outside fiber contracter called me with questions. (That was a new one for me.)
-* Feb 14: "...we haven't forgotten about you."
-* Feb 22: "I'm still talking with the construction team to try to get some updates for you."
-* Mar 12: "We were having some trouble getting the construction team and the sales team in touch with each other, but we're making some progress."
-* Mar 13: "...everything was forwarded to the finance team so we're just waiting to hear back from them now."
-* Mar 19: "Looks like the financial team approved the order and now we're waiting on permits."
-* Apr 4: "I touched base with our local partners this morning and they confirmed that permits are approved, locates have been called in, and they're moving towards scheduling a bore."
+
+* Feb 14:
+
+  > "...we haven't forgotten about you.
+
+* Feb 22:
+
+  > I'm still talking with the construction team to try to get some updates for you.
+
+* Mar 12:
+
+  > We were having some trouble getting the construction team and the sales team in touch with each other, but we're making some progress.
+
+* Mar 13:
+
+  > ...everything was forwarded to the finance team so we're just waiting to hear back from them now.
+
+* Mar 19:
+
+  > Looks like the financial team approved the order and now we're waiting on permits.
+
+* Apr 4:
+
+  > I touched base with our local partners this morning and they confirmed that permits are approved, locates have been called in, and they're moving towards scheduling a bore.
 
 For reference, the name of the Comcast's service offering is called Gigabit Pro and it will cost $1000 to install + $300/month for 2Gbps symmetric service + $20/month equipment rental. I was paying $200/month for DOCSIS 3.1 with 1Gbps/35Mbps down/up. Upstream will be at least 57x faster on fiber.
 
