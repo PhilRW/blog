@@ -2,7 +2,7 @@
 
 title: "The Great FTTH Saga"
 date: 2019-04-17T12:53:53-06:00
-draft: true
+draft: false
 categories:
 - Tech
 tags:
@@ -108,4 +108,12 @@ They indicated that the fiber splicer(s) would potentially show up later that we
 ![two vans parked on the street](/images/IMG_20190430_160156882_HDR.jpg)
 
 The splicers took about an hour to test everything and they informed me that they tested about 39,000 feet of fiber back to the headend. They told me to call Comcast and get them to hook me up. :sunglasses:
+
+----
+
+# Update: Jun 19
+
+It's been almost two months since the last activity from Comcast. I received this today from their Reddit rep:
+
+> Good morning. I heard back from the project manager. He let me know that there is some additional equipment that needs to be installed. He's working with the proper teams to get that done. I'll keep you informed with progress.
 
