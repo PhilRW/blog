@@ -138,7 +138,7 @@ The splicers took about an hour to test everything and they informed me that the
 
 ----
 
-# Update: Jun 19
+# Hiatus Update: Jun 19
 
 It's been almost two months since the last activity from Comcast. I received this today from their Reddit rep:
 
