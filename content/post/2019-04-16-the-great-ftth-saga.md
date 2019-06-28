@@ -144,3 +144,6 @@ It's been almost two months since the last activity from Comcast. I received thi
 
 > Good morning. I heard back from the project manager. He let me know that there is some additional equipment that needs to be installed. He's working with the proper teams to get that done. I'll keep you informed with progress.
 
+# Update: Jun 27
+
+I received a call from Comcast today asking me to confirm the service order and installation time. It's scheduled for Tuesday, July 2, 1300-1500. She asked me if I'd be using "[my] own modem" for this service and I explained to her that it's a $10K piece of equipment so no, I would be renting theirs.
