@@ -147,3 +147,7 @@ It's been almost two months since the last activity from Comcast. I received thi
 # Update: Jun 27
 
 I received a call from Comcast today asking me to confirm the service order and installation time. It's scheduled for Tuesday, July 2, 1300-1500. She asked me if I'd be using "[my] own modem" for this service and I explained to her that it's a $10K piece of equipment so no, I would be renting theirs.
+
+# Update: Jun 28
+
+I received an email from Comcast Business with my static IP information and some basic information on what they would be providing.
