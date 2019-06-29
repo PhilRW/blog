@@ -12,6 +12,6 @@ tags:
 
 This morning I found myself saying,
 
-> Had I known you were to do...
+> "Had I known you were to do…"
 
 I think that's right, right?
