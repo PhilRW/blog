@@ -151,3 +151,33 @@ I received a call from Comcast today asking me to confirm the service order and 
 # Update: Jun 28
 
 I received an email from Comcast Business with my static IP information and some basic information on what they would be providing.
+
+# Update: Jul 02
+
+Two techs in two vans showed up at about 13:45.
+
+![the final two vans](/images/IMG_20190702_153749002_HDR.jpg)
+
+After a minor kerfuffle with the remote/headend SFP tuned to the wrong frequency, the "light" looked good at -15. They installed the Juniper ACX2100 and proceeded to the next step, which was tuning the local SFP+ module to the right frequencies….
+
+…Which they could not accomplish even using a different router and different SFP+ modules. They finally gave up at 17:52 after all the rest of their support staff had left for the day. The plan was to reconvene later (possibly the next day).
+
+I asked about how many of these residential installs they did and they said mine was the first.
+
+# Roll Credits
+
+The tech Daniel called in the morning and said he'd be back at 10 am. He was there on the dot. They had managed to tune the SFP+ to the proper channels at the headend.
+
+He finally got the connectivity test working at 13:00 after multiple calls to different techs and tech supports.
+
+Then at 15:00 he finally finished. Turns out Comcast's documentation for the techs was inadequate. We basically had to *guess* the correct IPv6 addresses from the P2P link range they gave us. Hint: Comcast's doing it like IPv4 with a /126. The 2nd IP in the subnet is the router and the 3rd IP is the local address. But hey — it only took 5 hours!
+
+----
+
+And then there was fiber internet.
+
+And it was good.
+
+![Google Fiber Speed test screen shot: 1532 Mbps down/710 Mbps up](/images/Screen Shot 2019-07-03 at 5.21.03 PM.png)
+
+I'm still looking for a speedtest server that will handle 2 Gbps.
