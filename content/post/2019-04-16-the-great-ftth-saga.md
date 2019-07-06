@@ -178,4 +178,4 @@ And then there was fiber internet.
 
 And it was good.
 
-[![DSLReports speed test screen shot: 1.96 Gb/s down/1.84 Gb/s up](/images/51635554.png)](http://www.dslreports.com/speedtest/51635554)
+[![DSLReports speed test screen shot: 1.96 Gb/s down, 1.84 Gb/s up](/images/51635554.png)](http://www.dslreports.com/speedtest/51635554)
