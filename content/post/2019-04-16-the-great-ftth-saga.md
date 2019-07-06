@@ -178,6 +178,4 @@ And then there was fiber internet.
 
 And it was good.
 
-![Google Fiber Speed test screen shot: 1532 Mbps down/710 Mbps up](/images/Screen Shot 2019-07-03 at 5.21.03 PM.png)
-
-I'm still looking for a speedtest server that will handle 2 Gbps.
+[![DSLReports speed test screen shot: 1.96 Gb/s down/1.84 Gb/s up](/images/51635554.png)](http://www.dslreports.com/speedtest/51635554)
