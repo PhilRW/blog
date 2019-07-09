@@ -10,6 +10,8 @@ tags:
 - pet
 - animal
 - dog
+- creativity
+- problem solving
 ---
 
 Our pet is currently ill, which means she has diarrhea. She went in the basement twice while we were away (thank goodness for unfinished/concrete floors and her instincts), but I didn't want her to go in the house while we were home and asleep. She's very quiet and doesn't wake us up, so what to do?
