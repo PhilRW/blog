@@ -20,7 +20,7 @@ This post details the ham radio installation in my Tesla Model 3.
 
 <!--more-->
 
-I desired a two-way radio in my Model 3. How was I to accomplish this? Surely it was a simple as wiring to the 12V battery and pisking a suitable antenna mounting location, no? After much research, observation, and experimentation, I learned:
+I desired a two-way radio in my Model 3. How was I to accomplish this? Surely it was a simple as wiring to the 12V battery and picking a suitable antenna mounting location, no? Another like-minded ham with a remakably similar vehlce made a [video](https://www.youtube.com/watch?v=zMPPADPyIF0) of his install, but I did not want to put the antenna in the front with that particular antenna mount. After much research, observation, and experimentation, I learned:
 
 * It is unwise to connect accessories directly to the 12V battery in the frunk[^1]. Apparently the vehicle attempts to account for all battery drain, and when it can't explain some, it throws an error saying the battery needs service.
 
@@ -69,7 +69,23 @@ By far the most emotionally difficult task was drilling a hole in the trunk lid 
 
 Fortunately Tesla chose to reinforce the center of the trunk lid with some extra material, and it made for an exceptionally strong base for mounting the antenna. Make sure to check the ground connection between the antenna base and the vehicle body before closing it all up.
 
+![close up of underside of antenna mount](/images/IMG_20190920_165210349.jpg)
+
 Removing the trim was the hardest part of installing the antenna base. The clips do not come out of the sheet metal like they should and several of them may break. It may be wise to have a few spares on hand. It is also wise to check for any loose parts or pieces that may have fallen into the lid cavities to prevent any rattling when opening or closing the trunk.
+
+![trunk open with trim removed](/images/IMG_20190920_165155857.jpg)
+
+> :warning: Remember to protect the coax where it may rub against the metal.
+>
+> ![wrapped coax](/images/IMG_20190920_165224540.jpg)
+
+Run the coax along the existing wiring to the rubber conduit that leads to the vehicle body.
+
+![coax joining trunk lid wiring](/images/IMG_20190920_165235395.jpg)
+
+![coax following trunk lid wiring](/images/IMG_20190920_165238409.jpg)
+
+
 
 ## Coax Pull
 
@@ -80,6 +96,10 @@ Pulling the coax through the narrow rubber conduit was difficult and time-consum
 3. Connect the RF coax to the GPS coax and pull it through.
 
 As I had no cable lube to help me, I used a mixture of cornstarch and water (4 tsp + 1 cup, slowly boiled) to act as a lubricant. Since it is not petroleum-based, it would not dissolve any of the internal materials and would (hopefully) dry and/or coagulate quickly.
+
+![upper conduit](/images/IMG_20190920_165242189.jpg)
+
+![lower conduit](/images/IMG_20190920_165245464.jpg)
 
 After the cables were through the conduit, I needed to pull them one more time into the trunk area. There is a small access port that allowed me to push/pull the coax though into the trunk behind the liner on the passenger side, and from there I terminated the coax, ran it to the radio, and coiled and hid the extra. I wrapped the coax that rubs against the interior access hole with extra rubber and electrical tape since that part of the body has no rubber grommet.
 
@@ -99,5 +119,9 @@ Simultaneously with this project I installed a [Stealth EcoHitch](https://torkli
 
 If I had it to do over, I'd use the [119190](https://teslamotorsclub.com/tmc/posts/4045802/) kit that directly taps the wires just to make it a bit easier.
 
-[^1]: For you non-Tesla folks out there: *frunk* is a portmanteau of *front* and *trunk*.
-[^2]: In electronics we call this *debounce*.
+
+
+
+
+[^1]: For non-Tesla folks out there: *frunk* is a portmanteau of *front* and *trunk*.
+[^2]: In electronics we call this *debounce*. 
