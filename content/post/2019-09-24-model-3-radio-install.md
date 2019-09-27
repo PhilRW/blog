@@ -14,9 +14,12 @@ tags:
 - Model 3
 - install
 - automobile
+featured_image: "/images/IMG_20190925_123045534_HDR.jpg"
 ---
 
 This post details the ham radio installation in my Tesla Model 3.
+
+![antenna on Tesla trunk](/images/IMG_20190925_123045534_HDR.jpg)
 
 <!--more-->
 
