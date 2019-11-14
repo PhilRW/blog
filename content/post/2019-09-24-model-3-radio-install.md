@@ -1,7 +1,7 @@
 ---
 title: "Model 3 Ham Radio Install"
 date: 2019-09-24T14:04:58-06:00
-draft: true
+draft: false
 categories:
 - Tech
 - Auto
@@ -54,7 +54,15 @@ I ran the HHCH cable to the rear part of the console where the rest of the wirin
 
 The hole is 1 1/8" and directly next to the USB plugs, as per [this owner's installation](https://teslaownersonline.com/threads/center-console-removal.8156/page-2). I pulled the cables through a rubber grommet and installed the grommet into the hole in order to protect both the cables and the console. The mic clip for Motorola radios needs to be grounded in order for the radio to sense when the mic is off-hook. The ground wire is connected to the mic clip mount underneath the rubber cell phone holder pad. I had to use aluminum tape on the ground ring terminal to make an electrical connection.
 
+![grommeted hole through center console](/images/IMG_20191114_082041360.jpg)
+
 The HHCH clips *upwards* into the mic clip and prevents the cell phone holder cover from closing, so it is necessary to remove the HHCH and store it in the console when the radio is not in use (if you want to close the cell phone compartment door).
+
+![HHCH clipped into center console](/images/IMG_20191114_082123772.jpg)
+
+![closer view of HHCH clipped in to place](/images/IMG_20191114_081924945.jpg)
+
+![mic clip in cell phone holder area](/images/IMG_20191114_081951469.jpg)
 
 Because the HHCH contains its own speaker, there was no need to mount an external speaker, although that is certainly a future option for better audio. The center console would easily accomodate an external speaker.
 
@@ -62,7 +70,11 @@ Because the HHCH contains its own speaker, there was no need to mount an externa
 
 The radio body is located in the trunk, connected to the cross-beam that traverses the trunk area. It is located on the passenger side, because that side of the split rear folding seat is the shortest (the "40" of the 60/40 split bench). This way it will not obstruct objects that require the larger portion of the rear seat to be folded down.
 
+![read view of radio in trunk](/images/IMG_20191114_081849471.jpg)
+
 It also makes for easy access to the rear connectors of the radio simply by folding down the passenger side rear seat.
+
+![front view of back of radio](/images/IMG_20191114_081804312.jpg)
 
 # Trunk Lid Antenna
 
