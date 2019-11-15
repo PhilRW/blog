@@ -86,7 +86,7 @@ Fortunately Tesla chose to reinforce the center of the trunk lid with some extra
 
 ![close up of underside of antenna mount](/images/IMG_20190920_165210349.jpg)
 
-Removing the trim was the hardest part of installing the antenna base. The clips are very tight do not come out of the sheet metal like they should, so several of them may break. It may be wise to have a few spares on hand. It is also wise to check for any loose parts or pieces that may have fallen into the lid cavities to prevent any rattling when opening or closing the trunk.
+Removing the trim was the hardest part of installing the antenna base. The clips are very tight and do not come out of the sheet metal like they should, so several of them may break. It may be wise to have a few spares on hand. It is also wise to check for any loose parts or pieces that may have fallen into the lid cavities to prevent any rattling when opening or closing the trunk.
 
 ![trunk open with trim removed](/images/IMG_20190920_165155857.jpg)
 
