@@ -23,7 +23,7 @@ This post details the ham radio installation in my Tesla Model 3.
 
 <!--more-->
 
-I desired a two-way radio in my Model 3. How was I to accomplish this? Surely it was as simple as wiring to the 12V battery and picking a suitable antenna mounting location, no? Another like-minded ham with a remakably similar vehlce made a [video](https://www.youtube.com/watch?v=zMPPADPyIF0) of his install, but I did not want to put the antenna in the front with that particular antenna mount. After much research, observation, and experimentation, I learned:
+I desired a two-way radio in my Model 3. How was I to accomplish this? Surely it was as simple as wiring to the 12V battery and picking a suitable antenna mounting location, no? Another like-minded ham with a remakably similar vehicle made a [video](https://www.youtube.com/watch?v=zMPPADPyIF0) of his install, but I did not want to put the antenna in the front with that particular antenna mount. After much research, observation, and experimentation, I learned:
 
 * It is unwise to connect accessories directly to the 12V battery in the frunk[^1]. Apparently the vehicle attempts to account for all battery drain, and when it can't explain some, it throws an error saying the battery needs service. I did not want to risk that as the nearest service center [isn't yet complete](https://teslamotorsclub.com/tmc/threads/new-service-sales-center-superior-co.111298/).
 
