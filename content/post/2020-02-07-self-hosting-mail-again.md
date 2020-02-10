@@ -10,6 +10,7 @@ tags:
 - distributed
 - decentralization
 - fediverse
+- email
 ---
 
 I moved off of Gmail back to my own servers. Why self-host my email again after all these years?
