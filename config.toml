@@ -22,7 +22,7 @@ PygmentsOptions = "linenos=table"
 layoutsDir = "layouts"
 summaryLength = 89
 #publishDir = "/keybase/private/philrw,kbpbot/blog.rosenberg-watt.com"
-publishDir = "/Users/prosenberg-watt/Documents/Sync/blog"
+#publishDir = "/Users/prosenberg-watt/Documents/Sync/blog"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
