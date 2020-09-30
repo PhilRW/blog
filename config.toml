@@ -119,6 +119,7 @@ defaultContentLanguage = "en-us"           # Default language to use
   # enable 'fork me on github', see https://blog.github.com/2008-12-19-github-ribbons/
   # forkMeOnGithub = "https://github.com/xianmin/hugo-theme-jane"
 
+  customFooter = "<table style=\"width:67%;margin-left:auto;margin-right:auto\"><tr><td>The views and opinions expressed in this blog are my own and are not shared, supported, or endorsed by my employer, family, friends, government, or any other person or legal entity existing, ever to have existed, or to exist within this planet, multiverse, or simulation.</td></tr></table>"
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
     enable = false
     jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
