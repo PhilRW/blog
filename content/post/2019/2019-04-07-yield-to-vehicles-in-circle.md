@@ -12,6 +12,7 @@ tags:
 - fail
 - traffic
 - law
+- dashcam
 ---
 
 Traffic circles aren't that hard, people. :confounded:
