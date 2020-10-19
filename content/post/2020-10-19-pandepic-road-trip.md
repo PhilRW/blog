@@ -79,8 +79,16 @@ Some random, incomplete takeaways from the trip:
 
 * Towing your own portable hotel room is pretty awesome, especially and particularly in times of pandemic.
 * Get comfortable backing your trailer because most sites will be back-in. A spotter is helpful.
-* It's still a lot of work to set-up and tear down. This got tiring and frustrating by the end of the trip, especially with distances that spanned two nights on the road between destinations.
+* It's still a lot of work to set-up and tear down. This got tiring and frustrating by the end of the trip, especially with distances that spanned two nights on the road between destinations. Our model *required* turning the dinette into a bed in order to bring in the slide.
+* Trailer dinette tables do not support clip-on highchairs.
+* Practice water-conserving showers and dishwashing.
 * Get a trailer that's not so narrow on the inside (see: side slide) or that has the kitchen at one end.
+* If you have a messy eater and a borrowed trailer, bring a durable, plastic cover for the dinette bench.
+* Storage will be awkward and inefficient. Add hooks, shelves, and pockets wherever you can (if owned).
+* Do not pack messy foods if possible (see: cottage cheese).
+* You may want to purchase separate drinking water depending on the quality of the potable water at your campsite(s).
+* Be handy. Especially with a trailer. Necessity of this one increases with age of trailer.
+* Elderly dogs may not do well with the steep entry steps; a toy hauler type ramp may be more suitable.
 * You can expect your MPG (or mi/KWh) to be roughly halved when towing.
 * Denver is a metropolitan oasis 600+ miles from the next largest population center. This makes it a long, lonely, boring drive to get to family who don't live in the area.
 * Automatic lane keeping and adaptive cruise control sure [will be nice](https://www.tesla.com/cybertruck) when towing.
