@@ -13,7 +13,7 @@ tags:
 - towing
 ---
 
-My family (wife, 14-month-old, dog, and I) just returned from a two week long road trip to the Midwest. The purpose was to visit family and travel safely. So we purchased a tow vehicle and rented a travel trailer. The details of our trailer rental, itinerary, and packing list can be found [here](https://watt.ws/pandepic).
+My family (wife, 14-month-old, dog, and I) just returned from a two week long road trip to the Midwest. The purpose was to visit family and travel safely. So we purchased a tow vehicle and rented a travel trailer. This was our [trailer rental](https://www.outdoorsy.com/rv-rental/parker_co/2013_keystone_outback_171715-listing).
 
 <!--more-->
 
