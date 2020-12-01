@@ -148,7 +148,7 @@ defaultContentLanguage = "en-us"           # Default language to use
 #    a-keybase = "https://keybase.io/philrw"
 #    a-email = "mailto:philip@rosenberg-watt.com"
 #    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "https://twitter.com/PhilRWatt"
+#    c-twitter = "https://twitter.com/PhilRWatt"
 #    d-facebook = "http://localhost:1313"
 #    e-linkedin = "http://localhost:1313"
 #    f-google = "http://localhost:1313"
@@ -161,6 +161,7 @@ defaultContentLanguage = "en-us"           # Default language to use
 #    m-instagram = "http://localhost:1313"
 #    n-gitlab = "http://en.xianmin.org/hugo-theme-jane/"
 #    o-goodreads = "http://en.xianmin.org/hugo-theme-jane/"
+    s-mastodon = "https://mastodon.rosenberg-watt.com/@philrw"
 
 # jsonfeed support
 # more information: https://github.com/xianmin/hugo-theme-jane/issues/23
