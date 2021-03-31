@@ -17,10 +17,10 @@ wordpress_id: 100
 
 ...and they’re on YouTube! Hilarity ensues! Check out these videos:
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/xpcUxwpOQ_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube xpcUxwpOQ_A >}}
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/kDA9NbPAK8o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube kDA9NbPAK8o >}}
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/EDFgtFXfnv0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube EDFgtFXfnv0 >}}
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/Ob6TTU1knUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube Ob6TTU1knUM >}}
