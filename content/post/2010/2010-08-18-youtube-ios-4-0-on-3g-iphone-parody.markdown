@@ -18,6 +18,6 @@ wordpress_id: 2425
 
 So true. This is my constant experience with my iPhone 3G.
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/Pdk2cJpSXLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube Pdk2cJpSXLg >}}
 
 [YouTube - iOS 4.0 on 3G iPhone (parody)](https://www.youtube.com/watch?v=Pdk2cJpSXLg).

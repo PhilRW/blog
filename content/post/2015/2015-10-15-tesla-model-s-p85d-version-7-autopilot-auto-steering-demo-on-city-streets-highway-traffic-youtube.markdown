@@ -18,4 +18,4 @@ wordpress_id: 85790
 
 One step closer to completely self-driving cars!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/4CZe5DXeYzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube 4CZe5DXeYzw >}}

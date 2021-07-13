@@ -15,7 +15,7 @@ tags:
 
 The Nest camera AI recognized it as a "person," otherwise it might have slipped by unnoticed.
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/kdkHQ8ffWMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube kdkHQ8ffWMA >}}
 
 <!--more-->
 
@@ -23,4 +23,4 @@ I wonder why it wanted so much to climb up onto the roof.
 
 Here's another angle:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/G3wyWFZF63s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube G3wyWFZF63s >}}

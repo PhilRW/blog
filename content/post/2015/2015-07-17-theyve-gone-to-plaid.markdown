@@ -19,4 +19,4 @@ So now the top-end [Tesla](http://www.teslamotors.com/) [Model S](http://www.tes
 
 You can't say Elon doesn't have a sense of humor. Did you also know the volume setting on the Model S's sound [system goes to 11](https://www.youtube.com/watch?v=g7-5io1muSQ)?
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ygE01sOhzz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube ygE01sOhzz0 >}}

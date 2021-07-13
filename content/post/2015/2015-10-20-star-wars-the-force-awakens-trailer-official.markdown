@@ -16,4 +16,4 @@ wordpress_id: 85803
 
 I can't wait! I watched it twice.
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/sGbxmsDFVnE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube sGbxmsDFVnE >}}

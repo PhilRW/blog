@@ -20,6 +20,6 @@ wordpress_id: 86553
 
 UPS, your online package tracking says that you delivered to my house at 12:26pm today. My video camera says otherwise!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/BRTR6PcoECE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube BRTR6PcoECE >}}
 
 Where's my stuff, dammit?!

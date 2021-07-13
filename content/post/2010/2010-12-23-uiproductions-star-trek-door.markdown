@@ -17,6 +17,6 @@ wordpress_id: 3008
 
 Dude. Forget that last thing I posted. I want **one of these**!
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/FVtB2Lrd1vg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube FVtB2Lrd1vg >}}
 
 [uiproductions: Star Trek Door](http://uiproductions.blogspot.com/2010/12/star-trek-door.html).

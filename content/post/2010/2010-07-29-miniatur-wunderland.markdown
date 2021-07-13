@@ -20,6 +20,6 @@ There's a model railroading convention in Denver right now and this got me think
 
 I'm totally going to go here. It looks like I could easily spend an entire day here. This is now officially on my list of places to see.
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/PN_oDdGmKyA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube PN_oDdGmKyA >}}
 
 [Miniatur Wunderland Hamburg - model building - model railway Hamburg](http://www.miniatur-wunderland.com/).

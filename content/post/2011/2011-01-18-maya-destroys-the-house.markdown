@@ -17,4 +17,4 @@ wordpress_id: 3108
 
 Watch her pull down the entire window shade:
 
-<iframe width="789" height="592" src="https://www.youtube.com/embed/pW75bP0_qWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube pW75bP0_qWQ >}}

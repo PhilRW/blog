@@ -18,4 +18,4 @@ wordpress_id: 86509
 
 Whenever I reconcile my accounts to the penny after not doing it for a while...
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FPQlXNH36mI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube FPQlXNH36mI >}}

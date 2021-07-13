@@ -17,6 +17,6 @@ wordpress_id: 3004
 
 Dude. I totally have to get me one of these.
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/JUHawvpMyM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube JUHawvpMyM4 >}}
 
 [ThinkGeek :: Electronic Music Synthesizer Shirt](http://www.thinkgeek.com/tshirts-apparel/interactive/?icpg=gy_e1aa).

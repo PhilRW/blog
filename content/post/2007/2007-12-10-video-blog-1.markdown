@@ -14,4 +14,4 @@ wordpress_id: 149
 
 [![](/images/071210vlog-poster.jpg)](/images/071210vlog-desktop.m4v)
 
-<iframe width="660" height="495" src="https://www.youtube.com/embed/PI6Ih7IHK-E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube PI6Ih7IHK-E >}}

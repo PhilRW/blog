@@ -20,4 +20,4 @@ So I'm using my treadmill at work and these guys use treadmills for their job, t
 
 via [OK Go - Here It Goes Again - YouTube](https://www.youtube.com/watch?v=dTAAsCNK7RA).
 
-<iframe width="695" height="521" src="https://www.youtube.com/embed/dTAAsCNK7RA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube dTAAsCNK7RA >}}

@@ -16,4 +16,4 @@ wordpress_id: 3027
 
 Notice the burning candles next to the wrapping paper.
 
-<iframe width="816" height="612" src="https://www.youtube.com/embed/eZySrPFZfjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube eZySrPFZfjE >}}

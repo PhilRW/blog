@@ -17,6 +17,6 @@ wordpress_id: 85669
 
 Choo-choo! It's about time to see a train pull up to DIA!
 
-<iframe width="865" height="487" src="https://www.youtube.com/embed/cn0jt24B7J4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube cn0jt24B7J4 >}}
 
 [RTD East Rail Line cars enter DIA station under their own power | CPR](http://www.cpr.org/news/story/rtd-east-rail-line-cars-enter-dia-station-under-their-own-power).

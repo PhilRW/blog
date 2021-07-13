@@ -12,4 +12,4 @@ title: One Step Closer to Star Trek's Universal Translator...
 wordpress_id: 19381
 ---
 
-<iframe width="926" height="521" src="https://www.youtube.com/embed/T8fsvYd2RBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube T8fsvYd2RBY >}}

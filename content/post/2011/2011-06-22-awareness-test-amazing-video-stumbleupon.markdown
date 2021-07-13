@@ -17,6 +17,6 @@ wordpress_id: 3401
 
 Very clever PSA from across the pond.
 
-<iframe width="789" height="592" src="https://www.youtube.com/embed/aE-4M21_tv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube aE-4M21_tv4 >}}
 
 [Awareness Test-Amazing - Video - StumbleUpon](http://www.stumbleupon.com/su/1PU64p/www.metacafe.com/watch/1154210/awareness_test_amazing/).

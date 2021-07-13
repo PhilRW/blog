@@ -19,6 +19,6 @@ wordpress_id: 3379
 
 Okay, this guy is pretty awesome.
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/LAhP-yLJJ9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube LAhP-yLJJ9s >}}
 
 [What If iOS 5 Were Truly Magical? Watch These Incredible iOS 5 Magic Tricks | Cult of Mac](http://www.cultofmac.com/98761/what-if-ios-5-were-truly-magical-watch-these-incredible-ios-5-magic-tricks/98761/).

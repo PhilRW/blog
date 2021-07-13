@@ -19,6 +19,6 @@ wordpress_id: 85657
 
 Helz yiss! I'm now officially excited to see the new Star Wars movie.
 
-<iframe width="865" height="360" src="https://www.youtube.com/embed/ngElkyQ6Rhs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube ngElkyQ6Rhs >}}
 
 [Star Wars: The Force Awakens Official Teaser #2 - YouTube](https://www.youtube.com/watch?v=ngElkyQ6Rhs).

@@ -19,4 +19,4 @@ I really needed this today. It had me laughing so hard I was crying. First I wat
 
 [mental_floss Blog » Famous Bands Singing Nonsense](http://mentalfloss.com/article/26265/famous-bands-singing-nonsense).<!--more-->
 
-<iframe width="909" height="511" src="https://www.youtube.com/embed/vQRvqkmKmKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube vQRvqkmKmKo >}}

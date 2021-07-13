@@ -16,4 +16,4 @@ That's funny, I didn't know temperatures showed up on radar.
 
 Do they mean a different kind of radar? Perhaps Jonathan Banks can tell us.
 
-<iframe width="1061" height="597" src="https://www.youtube.com/embed/uEywGpIt0vw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube uEywGpIt0vw >}}

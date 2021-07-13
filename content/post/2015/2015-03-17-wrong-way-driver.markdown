@@ -19,4 +19,4 @@ wordpress_id: 85525
 
 We saw this yesterday on the drive home from work.
 
-<iframe width="865" height="487" src="https://www.youtube.com/embed/Y62RfulrJjo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube Y62RfulrJjo >}}

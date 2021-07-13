@@ -17,4 +17,4 @@ wordpress_id: 84938
 
 My wife has asked me on more than one occasion why they don't celebrate religious holidays on Star Trek: The Next Generation (we haven't gotten to Deep Space Nine yet). This is too funny not to share:
 
-<iframe width="811" height="456" src="https://www.youtube.com/embed/oiSn2JuDQSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube oiSn2JuDQSc >}}
