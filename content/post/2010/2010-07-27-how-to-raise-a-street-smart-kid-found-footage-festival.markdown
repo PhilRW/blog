@@ -18,6 +18,6 @@ wordpress_id: 1485
 
 It's Captain Furillo from Hill Street Blues! Hooray!
 
-<iframe src="https://player.vimeo.com/video/106237853" width="640" height="428" frameborder="0" allowfullscreen></iframe>
+{{< vimeo 106237853 >}}
 
 [How To Raise A Street-Smart Kid | Found Footage Festival](http://www.foundfootagefest.com/2014/06/how-to-raise-a-street-smart-kid/).
