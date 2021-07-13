@@ -35,4 +35,3 @@ Magnetic printing confirmed.
 
 Also it's a good clip. Shout out to my old film school peep [Kirk Sullivan](https://twitter.com/KirkSullivanYo) for retweeting it.
 
-{{< tweet 1108058441308925953 >}}
