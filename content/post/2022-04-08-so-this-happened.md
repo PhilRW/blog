@@ -1,7 +1,7 @@
 ---
 title: "So This Happened"
 date: 2022-04-08T15:05:09-06:00
-draft: true
+draft: false
 categories:
 - Personal
 tags:
