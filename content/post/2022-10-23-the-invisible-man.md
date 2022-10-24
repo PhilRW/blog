@@ -1,15 +1,13 @@
 ---
 title: "The Invisible Man"
 date: 2022-10-23T20:06:45-06:00
-draft: true
+draft: false
 categories:
 - Personal
 - Rants and Raves
 tags:
-- neglect
 - sadness
 - fatigue
-- depression
 ---
 
 Many things happened today that apparently only I know about or care enough about to acknowledge. In the spirit of trees falling in forests, I reflect on them.
@@ -25,6 +23,8 @@ moved piles and piles of stuff from one room to another room so furniture could 
 packed and shipped two parcels.
 
 made cinnamon rolls.
+
+filled out most of my ballot.
 
 played with Alexander before heading outside.
 
@@ -46,15 +46,21 @@ waited in line for 5-10 minutes (again) to pick up the car from the tire center.
 
 loaded the car, drove it home, unloaded it, put away groceries.
 
-ate a slice of pizza whhile I played with Alexander for another hour.
+ate a slice of pizza while I played with Alexander for another hour.
 
 made him dinner and read several more stories.
 
 finally got a 20-minute break.
 
+did not take a shower.
+
+did not have lunch.
+
 ---
 
-Somewhere in there I got a 'please' and a singular 'thank you.' Most went unnnoticed and/or unacknowledged, as usual.
+I also scanned the documents and receipts, documented the vehicle maintenance in the family wiki, and entered the financial transactions into our ledger.
+
+Somewhere in there I got a "please" or two and a singular "thank you." Most went unnnoticed and/or unacknowledged, as usual.
 
 ---
 
