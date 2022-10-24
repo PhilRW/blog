@@ -7,10 +7,22 @@ steps:
   - name: submodules
     image: alpine/git
     commands:
-      - git submodules update --init --recursive
+      - git submodule update --init --recursive
 
   - name: build
     image: plugins/hugo
     settings:
       hugo_version: 0.68.3
       validate: true
+
+  - name: rsync
+    image: drillster/drone-rsync
+    settings:
+      user: philip
+      key:
+        from_secret: rsync_key
+      hosts:
+        - docker.rosenberg-watt.com
+      source: ./public/
+      target: /opt/ipfs/export/blog/
+      delete: true
