@@ -10,7 +10,7 @@ tags:
 - fatigue
 ---
 
-Many things happened today that apparently only I know about or care enough about to acknowledge. In the spirit of trees falling in forests, I reflect on them.
+Many things happened today that apparently only I know about or care about enough to acknowledge. In the spirit of trees falling in forests, I reflect on them.
 
 Today I...
 
