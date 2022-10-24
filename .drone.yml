@@ -1,7 +1,14 @@
 kind: pipeline
 name: default
 
+
+
 steps:
+  - name: submodules
+    image: alpine/git
+    commands:
+      - git submodules update --init --recursive
+
   - name: build
     image: plugins/hugo
     settings:
