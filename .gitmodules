@@ -4,6 +4,7 @@
 [submodule "themes/jane"]
 	path = themes/jane
 	url = https://github.com/PhilRW/hugo-theme-jane.git
+        branch = stable
 [submodule "themes/whiteplain"]
 	path = themes/whiteplain
 	url = https://github.com/taikii/whiteplain.git
