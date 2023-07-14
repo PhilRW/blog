@@ -12,7 +12,7 @@ steps:
   - name: build
     image: plugins/hugo
     settings:
-      hugo_version: 0.68.3
+      hugo_version: 0.115.3
       validate: true
 
   - name: rsync
