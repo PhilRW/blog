@@ -10,6 +10,7 @@ tags:
 - song
 - politics
 - sheet music
+- score
 ---
 
 This song came to me today and I had to write it down.

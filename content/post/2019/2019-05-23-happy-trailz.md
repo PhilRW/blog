@@ -8,6 +8,7 @@ tags:
 - music
 - sheet music
 - jazz
+- score
 ---
 
 With a "z" for jazzy. :kissing::saxophone:
