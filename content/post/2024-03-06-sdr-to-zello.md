@@ -15,7 +15,7 @@ tags:
 - Zello
 ---
 
-To promote my own personal situational awareness (especially during fire season which is pretty much all year), I combined some radio + software magic and created a couple of feeds of police and fire dispatch in Boulder County. I thought I would share this with the community. Enjoy!
+To promote my own personal situational awareness (especially during fire season which is pretty much all year now), I combined some radio + software magic and created a couple of feeds of police and fire dispatch in Boulder County. I thought I would share this with the community. Enjoy!
 
 <!--more-->
 
