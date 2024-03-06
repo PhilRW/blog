@@ -1,5 +1,5 @@
 ---
-title: "SDR to Zello"
+title: "SDR to Zello: Boulder City & County"
 date: 2024-03-06T11:55:50-07:00
 draft: false
 categories:
@@ -9,9 +9,11 @@ tags:
 - 
 ---
 
-I created a software project that generates custom scanner feeds based on audio files of digital radio transmissions decoded from SDR receivers. One of the things this project does is feed the various talkgroups/transmissions into channels in Zello, a walkie-talkie-like app for smartphones. The software is a mess and not ready to share yet, but I thought I'd share a couple of the channels with the community.
+To promote my own personal situational awareness (especially during fire season which is pretty much all year), I combined some radio + software magic and created a couple of feeds of police and fire dispatch in Boulder County. I thought I would share this with the community. Enjoy!
 
 <!--more-->
+
+I created a software project that generates custom scanner feeds based on audio files of digital radio transmissions decoded from SDR receivers. One of the things this project does is feed the various talkgroups/transmissions into channels in Zello, a walkie-talkie-like app for smartphones. The software is a mess and not ready to share yet, but I thought I'd share a couple of the channels with the community.
 
 Please keep in mind the successful operation of these channels depends on many components, including the reliability of my electricity, internet connection, computers running the feeds, and the SDR devices decoding the transmissions. Any one of these could fail at any time and I am but one humble software engineer doing this in my spare time for fun. Please help me keep it fun. 😀
 
