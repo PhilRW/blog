@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://blog.rosenberg-watt.com"
 relativeURLs = true
 title = "Phil's Osophies™ 3.0"
 enableRobotsTXT = true
