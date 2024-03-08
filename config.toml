@@ -68,7 +68,7 @@ defaultContentLanguage = "en-us"           # Default language to use
 
 
 [params]
-
+  amazonTag = "blog.rosenberg-watt.com-20"
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2003"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.

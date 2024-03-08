@@ -10,6 +10,6 @@ title: Osophy on Methods, Implementation of
 wordpress_id: 84846
 ---
 
-from _[Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/)_ (sarcastically):
+from _[Peopleware]({{<amazon "0321934113">}})_ (sarcastically):
 
 > Knowledge is so valuable, we must use it sparingly.
