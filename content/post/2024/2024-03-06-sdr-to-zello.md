@@ -27,6 +27,8 @@ That being said, right now I have two main channels for monitoring local dispatc
  - [Boulder County Scanner 02](https://zello.me/k/ivfAi): City and County Fire dispatch
  - [Boulder County Scanner 03](https://zello.me/k/ivq8Q): City and County Police/Sheriff dispatch
 
+These channels are public and are available for anyone to join.
+
 The cool thing about this project is that, unlike a traditional scanner, you don't miss any transmissions. They queue up in order received. There may be a bit of a delay depending on how busy the radio systems are, but generally the transmissions will go through. Dispatchers also acknowledge transmissions with the current time (in 24-hour format), so you know how long of a delay there is.
 
 Right now my reception of the Boulder (the city) radio system is marginal at best (since I am not actually in the city of Boulder), so their transmissions may be garbled sometimes. The county uses a different system that I have no problems receiving.
