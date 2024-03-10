@@ -33,4 +33,4 @@ The cool thing about this project is that, unlike a traditional scanner, you don
 
 Right now my reception of the Boulder (the city) radio system is marginal at best (since I am not actually in the city of Boulder), so their transmissions may be garbled sometimes. The county uses a different system that I have no problems receiving.
 
-ℹ️ Note: Zello incorporates a rate limit into their API, but they don't *tell* you what it is, so sometimes when things get super busy, the Zello channels don't work at all. I'm in the process of experimenting with different delays.
+ℹ️ Note: Zello incorporates a rate limit into their API, but they don't *tell* you what it is, so sometimes when things get super busy, the Zello channels don't work at all. I'm in the process of experimenting with different delays. It's been relatively stable for the past few months.
