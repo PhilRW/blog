@@ -1,7 +1,7 @@
 ---
 title: "Another Something New"
 date: 2024-03-07T20:13:08-07:00
-draft: true
+draft: false
 categories:
 - Tech
 tags:
