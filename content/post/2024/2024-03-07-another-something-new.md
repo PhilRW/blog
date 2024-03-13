@@ -6,5 +6,6 @@ categories:
 - Tech
 tags:
 - technology
+- synergy
 ---
 I created another [new website](http://reviews.rosenberg-watt.com). This one is for reviewing things. My goal is to post one review per day.
