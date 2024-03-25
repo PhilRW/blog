@@ -1,5 +1,5 @@
 ---
-title: "What Give?s"
+title: "What Gives?"
 date: 2024-03-25T16:40:18-06:00
 draft: false
 categories:
