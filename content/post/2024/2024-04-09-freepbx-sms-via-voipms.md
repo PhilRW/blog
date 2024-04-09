@@ -20,7 +20,7 @@ Today I share my success with configuring SMS messaging on FreePBX (running Aste
 
 I ported my DIDs over to VoIP.ms because they allow SMS messaging, and they're a bit cheaper than my previous provider. Plus they use [SIMPLE](https://en.wikipedia.org/wiki/SIMPLE_(instant_messaging_protocol)) to send/receive SMS over their SIP trunks. 
 
-I encountered a couple of problems. First I wanted to test text messaging between internal extensions. PJSIP only returns the first contact on an endpoint using `MessageSend()`, so my messages weren't going through to all devices since I register multiple devices to a single extension. A lot of the dialplan was taken directly from their excellent [wiki](https://wiki.voip.ms/article/SIP/SMS_with_FreePBX). Here's the final dialplan that's working with multiple devices per extension:
+I encountered a couple of problems. First I wanted to test text messaging between internal extensions. PJSIP only returns the first contact on an endpoint using `MessageSend()`, so my messages weren't going through to all devices since I register multiple devices to a single extension. A lot of the dialplan was taken directly from their excellent [wiki](https://wiki.voip.ms/article/SIP/SMS_with_FreePBX), with special thanks to [this discussion](https://community.asterisk.org/t/messagesend-to-all-pjsip-contacts/75485) (the key was `PJSIP_DIAL_CONTACTS()`). Here's the final dialplan that's working with multiple devices per extension:
 
 ```ini
 [sms-in]
