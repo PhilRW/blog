@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Foreign American Dialects"
-date: 2024-12-23T18:31:41-07:00
+date: 2024-12-23T17:00:00-07:00
 draft: false
 categories:
 - Film/TV/Theater
