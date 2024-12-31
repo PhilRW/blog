@@ -8,6 +8,7 @@ tags:
 - loss
 - hope
 - despair
+- experience
 ---
 
 It's been three years. The third anniversary. Before, when I heard someone say "*you don't know* unless you went through it," I didn't believe them. Now I do.
