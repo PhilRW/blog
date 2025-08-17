@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2006-09-01T00:55:16Z"
 link: https://philrw.wordpress.com/?p=747
-published: false
+params:
+  published: false
 slug: jenny-gelwick
 title: Jenny Gelwick
 wordpress_id: 747

@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2005-08-22T02:09:43Z"
 link: https://philrw.wordpress.com/?p=760
-published: false
+params:
+  published: false
 slug: martial-arts-tournaments
 title: Martial Arts Tournaments
 wordpress_id: 760

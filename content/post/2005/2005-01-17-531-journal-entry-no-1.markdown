@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2005-01-17T05:11:45Z"
 link: https://philrw.wordpress.com/?p=806
-published: false
+params:
+  published: false
 slug: 531-journal-entry-no-1
 title: 531 Journal Entry No. 1
 wordpress_id: 806

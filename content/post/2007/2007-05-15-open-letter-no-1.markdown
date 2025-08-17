@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2007-05-15T04:30:33Z"
 link: https://philrw.wordpress.com/?p=730
-published: false
+params:
+  published: false
 slug: open-letter-no-1
 title: Open Letter No. 1
 wordpress_id: 730

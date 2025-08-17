@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2006-05-18T07:51:45Z"
 link: https://philrw.wordpress.com/?p=762
-published: false
+params:
+  published: false
 slug: lowest-common-denominator-society
 title: Lowest Common Denominator Society
 wordpress_id: 762

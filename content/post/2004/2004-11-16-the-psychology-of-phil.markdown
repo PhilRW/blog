@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2004-11-16T07:18:46Z"
 link: https://philrw.wordpress.com/?p=807
-published: false
+params:
+  published: false
 slug: the-psychology-of-phil
 title: The Psychology of Phil
 wordpress_id: 807

@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2008-10-04T01:17:21Z"
 link: https://philrw.wordpress.com/?p=727
-published: false
+params:
+  published: false
 slug: an-overgeneralized-ramble-on-the-universal-stock-exchange
 tags:
 - balance

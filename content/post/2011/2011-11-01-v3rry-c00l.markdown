@@ -3,7 +3,8 @@ author: philrw
 comments: true
 date: "2011-11-01T14:19:42Z"
 link: https://philrw.wordpress.com/?p=3839
-published: false
+params:
+  published: false
 slug: v3rry-c00l
 title: V3RRY C00L
 wordpress_id: 3839

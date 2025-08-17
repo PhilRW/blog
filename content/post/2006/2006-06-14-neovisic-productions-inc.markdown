@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2006-06-14T10:08:46Z"
 link: https://philrw.wordpress.com/?p=763
-published: false
+params:
+  published: false
 slug: neovisic-productions-inc
 title: NeoVisic Productions, Inc.
 wordpress_id: 763

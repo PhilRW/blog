@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2005-02-21T05:58:20Z"
 link: https://philrw.wordpress.com/?p=753
-published: false
+params:
+  published: false
 slug: e-mail-stress-management
 title: '[e-mail] Stress Management'
 wordpress_id: 753

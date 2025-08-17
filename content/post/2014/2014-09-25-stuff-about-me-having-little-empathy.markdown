@@ -6,7 +6,8 @@ categories:
 comments: true
 date: "2014-09-25T14:39:55Z"
 link: https://philrw.wordpress.com/?p=84980
-published: false
+params:
+  published: false
 slug: stuff-about-me-having-little-empathy
 tags:
 - finance

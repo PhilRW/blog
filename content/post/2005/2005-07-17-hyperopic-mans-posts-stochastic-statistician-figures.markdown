@@ -5,7 +5,8 @@ categories:
 comments: true
 date: "2005-07-17T02:40:44Z"
 link: https://philrw.wordpress.com/?p=761
-published: false
+params:
+  published: false
 slug: hyperopic-mans-posts-stochastic-statistician-figures
 title: Hyperopic Man's Posts Stochastic, Statistician Figures
 wordpress_id: 761

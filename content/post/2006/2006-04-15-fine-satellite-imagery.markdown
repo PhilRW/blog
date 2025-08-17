@@ -7,7 +7,8 @@ date: "2006-04-15T00:01:17Z"
 link: https://philrw.wordpress.com/?p=310
 post_format:
 - Image
-published: false
+params:
+  published: false
 slug: fine-satellite-imagery
 title: Fine Satellite Imagery
 wordpress_id: 310
