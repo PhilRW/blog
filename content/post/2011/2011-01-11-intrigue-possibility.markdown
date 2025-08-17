@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2011-01-11T23:45:58Z"
 link: https://philrw.wordpress.com/?p=3089
-params:
-  published: false
+draft: true
 slug: intrigue-possibility
 tags:
 - house

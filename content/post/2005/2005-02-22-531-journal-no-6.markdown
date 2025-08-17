@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-02-22T19:31:46Z"
 link: https://philrw.wordpress.com/?p=787
-params:
-  published: false
+draft: true
 slug: 531-journal-no-6
 title: 531 Journal No. 6
 wordpress_id: 787

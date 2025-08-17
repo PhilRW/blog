@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2007-02-26T16:57:21Z"
 link: https://philrw.wordpress.com/?p=754
-params:
-  published: false
+draft: true
 slug: dream-022607
 title: Dream 02/26/07
 wordpress_id: 754

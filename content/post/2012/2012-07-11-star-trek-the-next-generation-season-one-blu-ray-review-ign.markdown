@@ -8,8 +8,7 @@ date: "2012-07-11T16:25:47Z"
 link: https://philrw.wordpress.com/?p=46432
 post_format:
 - Link
-params:
-  published: false
+draft: true
 slug: star-trek-the-next-generation-season-one-blu-ray-review-ign
 tags:
 - Star Trek

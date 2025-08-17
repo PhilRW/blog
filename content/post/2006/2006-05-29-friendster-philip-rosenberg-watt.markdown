@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2006-05-29T19:22:01Z"
 link: https://philrw.wordpress.com/?p=776
-params:
-  published: false
+draft: true
 slug: friendster-philip-rosenberg-watt
 tags:
 - social media

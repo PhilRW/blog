@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2006-09-01T00:53:17Z"
 link: https://philrw.wordpress.com/?p=748
-params:
-  published: false
+draft: true
 slug: nikki-tomlinson
 title: Nikki Tomlinson
 wordpress_id: 748

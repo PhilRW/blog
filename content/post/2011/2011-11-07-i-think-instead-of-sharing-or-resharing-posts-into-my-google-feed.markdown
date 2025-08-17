@@ -3,8 +3,7 @@ author: philrw
 comments: true
 date: "2011-11-07T17:24:36Z"
 link: https://philrw.wordpress.com/?p=4388
-params:
-  published: false
+draft: true
 slug: i-think-instead-of-sharing-or-resharing-posts-into-my-google-feed
 title: I think instead of sharing (or "resharing") posts into my Google+ feed...
 wordpress_id: 4388

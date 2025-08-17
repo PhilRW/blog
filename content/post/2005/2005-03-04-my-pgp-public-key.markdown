@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-03-04T05:31:52Z"
 link: https://philrw.wordpress.com/?p=785
-params:
-  published: false
+draft: true
 slug: my-pgp-public-key
 title: My PGP Public Key
 wordpress_id: 785

@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2003-07-21T03:26:46Z"
 link: https://philrw.wordpress.com/?p=808
-params:
-  published: false
+draft: true
 slug: danni-girl
 title: Danni Girl
 wordpress_id: 808

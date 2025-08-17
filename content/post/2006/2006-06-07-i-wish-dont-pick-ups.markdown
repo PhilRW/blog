@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2006-06-07T17:31:17Z"
 link: https://philrw.wordpress.com/?p=749
-params:
-  published: false
+draft: true
 slug: i-wish-dont-pick-ups
 title: I Wish (Don't PICK-UPS)
 wordpress_id: 749

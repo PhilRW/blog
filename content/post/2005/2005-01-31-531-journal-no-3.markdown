@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-01-31T16:52:43Z"
 link: https://philrw.wordpress.com/?p=804
-params:
-  published: false
+draft: true
 slug: 531-journal-no-3
 title: 531 Journal No. 3
 wordpress_id: 804

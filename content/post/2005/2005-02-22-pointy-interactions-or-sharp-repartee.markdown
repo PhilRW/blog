@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-02-22T04:19:54Z"
 link: https://philrw.wordpress.com/?p=788
-params:
-  published: false
+draft: true
 slug: pointy-interactions-or-sharp-repartee
 title: Pointy Interactions or Sharp Repartee
 wordpress_id: 788

@@ -3,8 +3,7 @@ author: philrw
 comments: true
 date: "2011-11-05T02:05:21Z"
 link: https://philrw.wordpress.com/?p=4071
-params:
-  published: false
+draft: true
 slug: google-knows-things
 title: Google knows things
 wordpress_id: 4071

@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2009-05-25T15:52:18Z"
 link: https://philrw.wordpress.com/?p=726
-params:
-  published: false
+draft: true
 slug: a-touch-of-the-compliment-of-yellows
 tags:
 - loneliness

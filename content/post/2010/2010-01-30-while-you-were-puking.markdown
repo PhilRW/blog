@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2010-01-30T07:00:01Z"
 link: https://philrw.wordpress.com/?p=1002
-params:
-  published: false
+draft: true
 slug: while-you-were-puking
 title: While You Were Puking
 wordpress_id: 1002

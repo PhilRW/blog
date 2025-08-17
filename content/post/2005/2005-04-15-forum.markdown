@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-04-15T21:44:58Z"
 link: https://philrw.wordpress.com/?p=772
-params:
-  published: false
+draft: true
 slug: forum
 title: Forum!
 wordpress_id: 772

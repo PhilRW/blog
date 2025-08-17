@@ -3,8 +3,7 @@ author: philrw
 comments: true
 date: "2011-11-16T20:02:11Z"
 link: https://philrw.wordpress.com/?p=5870
-params:
-  published: false
+draft: true
 slug: as-soon-as-he-said-digital-signage-i-immediately-flashed-to-one-of
 title: As soon as he said "digital signage," I immediately flashed to one of those...
 wordpress_id: 5870

@@ -3,8 +3,7 @@ author: philrw
 comments: true
 date: "2011-11-10T14:07:16Z"
 link: https://philrw.wordpress.com/?p=4809
-params:
-  published: false
+draft: true
 slug: phils-pansophies
 title: "Phil's Pansophies?\uFEFF"
 wordpress_id: 4809

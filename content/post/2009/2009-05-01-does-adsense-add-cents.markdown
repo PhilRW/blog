@@ -6,8 +6,7 @@ categories:
 comments: true
 date: "2009-05-01T15:29:36Z"
 link: https://philrw.wordpress.com/?p=65
-params:
-  published: false
+draft: true
 slug: does-adsense-add-cents
 tags:
 - blog

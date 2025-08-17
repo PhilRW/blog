@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2007-02-20T00:01:14Z"
 link: https://philrw.wordpress.com/?p=745
-params:
-  published: false
+draft: true
 slug: whats-wrong-with-me
 title: What's Wrong with Me?
 wordpress_id: 745

@@ -12,8 +12,7 @@ tags:
 - sex
 title: Best Buds or Bust Beds?
 wordpress_id: 2748
-params:
-  published: false
+draft: true
 ---
 
 Yes, I know she's reading this. At least I hope she is.  She's the only one who can. And I made it that way.

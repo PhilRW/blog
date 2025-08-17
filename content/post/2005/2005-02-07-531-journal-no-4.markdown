@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2005-02-07T21:28:44Z"
 link: https://philrw.wordpress.com/?p=734
-params:
-  published: false
+draft: true
 slug: 531-journal-no-4
 title: 531 Journal No. 4
 wordpress_id: 734

@@ -5,8 +5,7 @@ categories:
 comments: true
 date: "2003-07-10T05:17:13Z"
 link: https://philrw.wordpress.com/?p=724
-params:
-  published: false
+draft: true
 slug: nothing
 title: Nothing
 wordpress_id: 724

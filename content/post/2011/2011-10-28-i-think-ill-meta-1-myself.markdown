@@ -3,8 +3,7 @@ author: philrw
 comments: true
 date: "2011-10-28T19:00:25Z"
 link: https://philrw.wordpress.com/?p=3640
-params:
-  published: false
+draft: true
 slug: i-think-ill-meta-1-myself
 title: I think I'll meta +1 myself
 wordpress_id: 3640
