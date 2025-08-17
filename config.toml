@@ -1,6 +1,6 @@
 baseURL = "https://blog.rosenberg-watt.com"
 relativeURLs = true
-title = "Phil's Osophies™ 3.0"
+title = "Phil's Osophies™ 3.1"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
