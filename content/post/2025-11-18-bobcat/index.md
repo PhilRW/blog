@@ -1,7 +1,7 @@
 ---
 title: "Bobcat"
 date: 2025-11-18T07:00:00-07:00
-draft: true
+draft: false
 categories:
 - Miscellaneous
 tags:
