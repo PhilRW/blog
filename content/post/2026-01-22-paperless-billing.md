@@ -7,6 +7,7 @@ categories:
 - Tech
 tags:
 - enshittification
+- Comcast
 ---
 
 Here's the thing, Comcast, and listen up: I want my PDF billing statement in my email. If you make me click on a link, authenticate with two factors, select the account, select the billing statement, and save it to disk, it saves me *no effort* vs opening an envelope and scanning a piece of paper. In fact, it's worse, because I can't reliably automate your stupid paperless billing process enough to integrate it into my workflow.
