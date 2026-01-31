@@ -25,7 +25,7 @@ And I love him so
 I love his squishy puffy cheeks  
 Yes, the ones above and the ones below (no homo)  
 
-He’s going to put is back on the map  
+He’s going to put us back on the map  
 He listens when I speak  
 He sits right here in my lap  
 I give him a little treat  
