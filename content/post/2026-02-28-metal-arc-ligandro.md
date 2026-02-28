@@ -19,7 +19,7 @@ First of all the voice transcriptions are horribly wrong most of the time. Here'
 
 Next, AI, at least for the moment, has very little if not no capability to question its own assumptions with any form of logic or reasoning in order to ask itself if that even makes sense. Believe me, I wish it did because then my homemade project would be a lot better.
 
-So for now I just have to hope that it gets a word or two right enough that I can get a notification and tune in myself to figure out what is going on. This is probably why [Watch Duty](https://app.watchduty.org/) is a little slow to respond, but they are very accurate: they are staffed by real humans who have listened to countless hours of radio traffic.
+So for now I just have to hope that it gets a word or two right enough that I can get a notification and tune in myself to figure out what is going on. This is probably why [Watch Duty](https://app.watchduty.org/) is a little slow to respond but very accurate: they are staffed by real humans who have listened to countless hours of radio traffic.
 
 The human brain is very adaptable. The computer "brain" is not.
 
