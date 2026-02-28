@@ -11,7 +11,7 @@ tags:
 - public safety
 ---
 
-Okay, so I'm a software engineer and one of my pastimes is keeping an ear open to various Boulder County public safety dispatch channels (that's what saved my butt back in December 2021). I've been working on a system for myself to do computer transcriptions of the dispatch channel just so I can get alerted when they say certain keywords., e.g., if they mention my kids' schools. But relying on computers to interpret radio traffic is iffy at best.
+Okay, so I'm a software engineer and one of my pastimes is keeping an ear open to various Boulder County public safety dispatch channels (that's what saved my butt back in December 2021). I've been working on a system for myself to do computer transcriptions of these dispatch channels just so I can get alerted when they say certain keywords., e.g., if they mention my kids' schools. But relying on computers to interpret radio traffic is iffy at best.
 
 <!--more-->
 
