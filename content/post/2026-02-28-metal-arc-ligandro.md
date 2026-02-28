@@ -21,7 +21,11 @@ Next, AI, at least for the moment, has very little if not no capability to quest
 
 So for now I just have to hope that it gets a word or two right enough that I can get a notification and tune in myself to figure out what is going on. This is probably why [Watch Duty](https://app.watchduty.org/) is a little slow to respond, but they are very accurate: they are staffed by real humans who have listened to countless hours of radio traffic.
 
-The human brain is very adaptable. The computer "brain" is not. 
+The human brain is very adaptable. The computer "brain" is not.
+
+---
+
+P.S. Anyone who is interested can watch these near-real-time so-called "transcriptions" [here](https://matrix.to/#/#scanner-boco-fire:matrix.rosenberg-watt.com).
 
 ---
 
