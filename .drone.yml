@@ -10,11 +10,9 @@ steps:
       - git submodule update --init --recursive
 
   - name: build
-    image: plugins/hugo
-    settings:
-      hugo_version: 0.157.0
-      extended: true
-      validate: false
+    image: klakegg/hugo:0.157.0-ext-alpine
+    commands:
+      - hugo
 
   - name: rsync
     image: drillster/drone-rsync
