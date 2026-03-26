@@ -9,7 +9,7 @@ steps:
     commands:
       - git submodule update --init --recursive
 
- - name: build
+  - name: build
     image: ubuntu:24.04
     commands:
       - apt-get update && apt-get install -y wget git
