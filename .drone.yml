@@ -9,17 +9,23 @@ steps:
     commands:
       - git submodule update --init --recursive
 
-  - name: build
+ - name: build
     image: ubuntu:24.04
     commands:
-      - apt-get update && apt-get install -y wget git sass
-      # Download the exact Extended version for Linux
+      - apt-get update && apt-get install -y wget git
+      # 1. Install Hugo Extended
       - wget https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_extended_0.157.0_linux-amd64.deb
       - dpkg -i hugo_extended_0.157.0_linux-amd64.deb
-      # Verify Dart Sass and Hugo
+      # 2. Install Official Dart Sass (Standalone)
+      - wget https://github.com/sass/dart-sass/releases/download/1.71.1/dart-sass-1.71.1-linux-x64.tar.gz
+      - tar -xf dart-sass-1.71.1-linux-x64.tar.gz
+      - cp -r dart-sass/* /usr/local/bin/
+      - rm -rf dart-sass*
+      # 3. Verify and Build
       - sass --version
       - hugo version
       - hugo --minify
+
   - name: rsync
     image: drillster/drone-rsync
     settings:
