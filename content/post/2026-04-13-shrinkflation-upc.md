@@ -10,4 +10,4 @@ tags:
 - shrinkflation
 ---
 
-I'd like to propose a law that requires any food or beverage manufacturer to put a new [UPC](https://en.wikipedia.org/wiki/Universal_Product_Code) on any product that has changed quantity, amount, weight, size, quality, or any other quantitative measure. They're cheating.
+I'd like to propose a law that requires any food or beverage manufacturer to put a new [UPC](https://en.wikipedia.org/wiki/Universal_Product_Code) on any product that has changed quantity, amount, weight, size, ingredients, components, grades, or any other quantitative measure. They're cheating.
